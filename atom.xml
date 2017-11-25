@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-22T14:12:40.885Z</updated>
+  <updated>2017-11-25T14:36:16.474Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章发布</title>
+    <link href="http://yoursite.com/2017/11/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/"/>
+    <id>http://yoursite.com/2017/11/25/测试文章发布/</id>
+    <published>2017-11-25T14:35:25.000Z</published>
+    <updated>2017-11-25T14:36:16.474Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="第一篇文章用于测试hexo"><a href="#第一篇文章用于测试hexo" class="headerlink" title="第一篇文章用于测试hexo"></a>第一篇文章用于测试hexo</h1><h2 id="生命在于折腾"><a href="#生命在于折腾" class="headerlink" title="生命在于折腾"></a>生命在于折腾</h2><p>太折腾了</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;第一篇文章用于测试hexo&quot;&gt;&lt;a href=&quot;#第一篇文章用于测试hexo&quot; class=&quot;headerlink&quot; title=&quot;第一篇文章用于测试hexo&quot;&gt;&lt;/a&gt;第一篇文章用于测试hexo&lt;/h1&gt;&lt;h2 id=&quot;生命在于折腾&quot;&gt;&lt;a href=&quot;#生命在
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
