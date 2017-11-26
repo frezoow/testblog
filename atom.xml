@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://zhuzw.info/"/>
   <updated>2017-11-25T14:36:16.474Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zhuzw.info/</id>
   
   <author>
     <name>zhuzw</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试文章发布</title>
-    <link href="http://yoursite.com/2017/11/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/"/>
-    <id>http://yoursite.com/2017/11/25/测试文章发布/</id>
+    <link href="http://zhuzw.info/2017/11/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/"/>
+    <id>http://zhuzw.info/2017/11/25/测试文章发布/</id>
     <published>2017-11-25T14:35:25.000Z</published>
     <updated>2017-11-25T14:36:16.474Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/11/22/hello-world/"/>
-    <id>http://yoursite.com/2017/11/22/hello-world/</id>
+    <link href="http://zhuzw.info/2017/11/22/hello-world/"/>
+    <id>http://zhuzw.info/2017/11/22/hello-world/</id>
     <published>2017-11-22T14:12:40.885Z</published>
     <updated>2017-11-22T14:12:40.885Z</updated>
     
