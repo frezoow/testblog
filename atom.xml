@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhuzw.info/"/>
-  <updated>2017-11-26T14:46:37.836Z</updated>
+  <updated>2018-05-20T23:35:21.906Z</updated>
   <id>http://zhuzw.info/</id>
   
   <author>
@@ -15,6 +15,167 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>浏览器为什么没有个收藏所复制文字功能</title>
+    <link href="http://zhuzw.info/%E9%9A%8F%E7%AC%94/%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%AA%E6%94%B6%E8%97%8F%E6%89%80%E5%A4%8D%E5%88%B6%E6%96%87%E5%AD%97%E5%8A%9F%E8%83%BD.html"/>
+    <id>http://zhuzw.info/随笔/浏览器为什么没有个收藏所复制文字功能.html</id>
+    <published>2018-05-20T23:29:28.000Z</published>
+    <updated>2018-05-20T23:35:21.906Z</updated>
+    
+    <content type="html"><![CDATA[<p>PC端我们擅于使用剪藏这样的插件帮助我们快速整理和收集对我们有帮助的信息，很奇怪在移动端却没有相应的服务，看到一段有帮助的文字并把它整理记录起来不应该是理所应当的么？<br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/Lcl8f4Di19.png?imageslim" alt="手机截图"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;PC端我们擅于使用剪藏这样的插件帮助我们快速整理和收集对我们有帮助的信息，很奇怪在移动端却没有相应的服务，看到一段有帮助的文字并把它整理记录起来不应该是理所应当的么？&lt;br&gt;&lt;img src=&quot;http://p013gvno2.bkt.clouddn.com/blog/18
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://zhuzw.info/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="脑洞" scheme="http://zhuzw.info/tags/%E8%84%91%E6%B4%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>王者荣耀改首页排位入口图片</title>
+    <link href="http://zhuzw.info/%E6%B8%B8%E6%88%8F/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%94%B9%E9%A6%96%E9%A1%B5%E6%8E%92%E4%BD%8D%E5%85%A5%E5%8F%A3%E5%9B%BE%E7%89%87.html"/>
+    <id>http://zhuzw.info/游戏/王者荣耀改首页排位入口图片.html</id>
+    <published>2018-05-20T04:42:48.000Z</published>
+    <updated>2018-05-20T23:58:41.450Z</updated>
+    
+    <content type="html"><![CDATA[<p>总之就是替换资源文件啦，/storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/HttpImage/<br>然后在这里搜索A1F9E59336116F502351EE017E64F017.bytes<br>就好啦[手动doge]<br>然后就自定义了一个图片，原图是这样滴：<br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/jHAbgA16jj.png?imageslim" alt="图片"><br>然后自己用半吊子ps搞了一个宝儿姐版，[手动滑稽]：<br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/27Jl5gj11B.png?imageslim" alt="截图"><br>最终修改完成是这样滴：<br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/Fec5l5glk9.png?imageslim" alt="截图"><br>改游戏的感觉呢，比打游戏好多了！<br>附上宝儿姐原图：<br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/e6edmC0gA1.png?imageslim" alt="宝儿姐原图"><br>展示一些其他酷友们的作品:<br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/Im2IeBG3LG.jpg?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/ag2Km23e5J.jpg?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/gl68iKgB4A.jpg?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/558k1e9Ej4.jpg?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/65G5hf5bFE.jpg?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/JbGm0Dk5B8.jpg?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/jde9gfJ8eg.jpg?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/egAc32h2m0.jpg?imageslim" alt="mark"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;总之就是替换资源文件啦，/storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files/HttpImage/&lt;br&gt;然后在这里搜索A1F9E59336116F502351EE017E64F017.bytes&lt;br&gt;
+      
+    
+    </summary>
+    
+      <category term="游戏" scheme="http://zhuzw.info/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+      <category term="王者荣耀" scheme="http://zhuzw.info/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
+    
+      <category term="教程" scheme="http://zhuzw.info/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VBA常用循环语句</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/VBA%E5%B8%B8%E7%94%A8%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5.html"/>
+    <id>http://zhuzw.info/学习笔记/VBA常用循环语句.html</id>
+    <published>2017-05-20T05:05:40.000Z</published>
+    <updated>2018-05-21T00:09:40.826Z</updated>
+    
+    <content type="html"><![CDATA[<p>Do while：满足条件后，退出循环<br>Do until：直到—时，退出循环<br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/9KbI549HJd.png?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/h8ij9CE5Kc.png?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/16aeem8FHK.png?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/A02C4mBfdm.png?imageslim" alt="mark"><br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/4Kg9h3lI6l.png?imageslim" alt="mark"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Do while：满足条件后，退出循环&lt;br&gt;Do until：直到—时，退出循环&lt;br&gt;&lt;img src=&quot;http://p013gvno2.bkt.clouddn.com/blog/180521/9KbI549HJd.png?imageslim&quot; alt=&quot;mark&quot;&gt;
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="VBA" scheme="http://zhuzw.info/tags/VBA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数组循环中为什么不能对数组元素赋值？</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%95%B0%E7%BB%84%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%AF%B9%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E8%B5%8B%E5%80%BC%EF%BC%9F.html"/>
+    <id>http://zhuzw.info/学习笔记/数组循环中为什么不能对数组元素赋值？.html</id>
+    <published>2017-05-18T05:02:43.000Z</published>
+    <updated>2018-05-21T00:06:06.089Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="问"><a href="#问" class="headerlink" title="问"></a>问</h3><p>For each 元素变量in  集合名称或数组名称<br>语句块1<br>exit for<br>语句块2<br>next 元素变量<br>注意：当在一个数组里循环时，不能对数组元素进行赋值或重新赋值，对于已经赋值的对象数组也只能修改元素的属性。<br>注意里的这句话不能理解，在数组里循环时，怎么就不能赋值或重新赋值，只能修改元素的属性是指什么？</p><h3 id="答"><a href="#答" class="headerlink" title="答"></a>答</h3><p>for each如果是对于集合或对象，就可以修改属性。<br>对于普通的数据，for each 读取出来的是值，而非对象。<br>你对变量赋值，并不会影响数组的元素。<br>好比：arr(1,1)的值为1<br>for each a in arr<br>next<br>第一轮循环时a=1,你对a进行赋值a=100，也只是修改到变量a的值嘛，跟数数组的元素arr(1,1)并无关系。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;问&quot;&gt;&lt;a href=&quot;#问&quot; class=&quot;headerlink&quot; title=&quot;问&quot;&gt;&lt;/a&gt;问&lt;/h3&gt;&lt;p&gt;For each 元素变量in  集合名称或数组名称&lt;br&gt;语句块1&lt;br&gt;exit for&lt;br&gt;语句块2&lt;br&gt;next 元素变量&lt;br&gt;注意：
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="VBA" scheme="http://zhuzw.info/tags/VBA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用户体验的层次和分类</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E7%9A%84%E5%B1%82%E6%AC%A1%E5%92%8C%E5%88%86%E7%B1%BB.html"/>
+    <id>http://zhuzw.info/学习笔记/用户体验的层次和分类.html</id>
+    <published>2016-03-23T10:43:10.000Z</published>
+    <updated>2018-05-21T00:03:12.601Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="用户体验的五大层次"><a href="#用户体验的五大层次" class="headerlink" title="用户体验的五大层次"></a>用户体验的五大层次</h3><p>用户体验的五大层次包括有用、能用、可用、用得好、形成品牌。</p><h3 id="用户体验的分类"><a href="#用户体验的分类" class="headerlink" title="用户体验的分类"></a>用户体验的分类</h3><p><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/6FF6FEJm89.jpg?imageslim" alt="用户体验的分类"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;用户体验的五大层次&quot;&gt;&lt;a href=&quot;#用户体验的五大层次&quot; class=&quot;headerlink&quot; title=&quot;用户体验的五大层次&quot;&gt;&lt;/a&gt;用户体验的五大层次&lt;/h3&gt;&lt;p&gt;用户体验的五大层次包括有用、能用、可用、用得好、形成品牌。&lt;/p&gt;
+&lt;h3 id=&quot;
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="脑图" scheme="http://zhuzw.info/tags/%E8%84%91%E5%9B%BE/"/>
+    
+      <category term="分析模型" scheme="http://zhuzw.info/tags/%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="用户体验" scheme="http://zhuzw.info/tags/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>产品的非功能需求包括哪些？</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E4%BA%A7%E5%93%81%E7%9A%84%E9%9D%9E%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82%E5%8C%85%E6%8B%AC%E5%93%AA%E4%BA%9B%EF%BC%9F.html"/>
+    <id>http://zhuzw.info/学习笔记/产品的非功能需求包括哪些？.html</id>
+    <published>2016-03-10T22:43:10.000Z</published>
+    <updated>2018-05-21T00:03:07.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>安全、性能、兼容、数据统计、帮助、财务、法律、运营、联系我们等皆属于非功能需求。<br><img src="http://p013gvno2.bkt.clouddn.com/blog/180521/8I3kdmaaHB.jpg?imageslim" alt="产品的非功能需求"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;安全、性能、兼容、数据统计、帮助、财务、法律、运营、联系我们等皆属于非功能需求。&lt;br&gt;&lt;img src=&quot;http://p013gvno2.bkt.clouddn.com/blog/180521/8I3kdmaaHB.jpg?imageslim&quot; alt=&quot;产品的非功能需
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="脑图" scheme="http://zhuzw.info/tags/%E8%84%91%E5%9B%BE/"/>
+    
+      <category term="非功能需求" scheme="http://zhuzw.info/tags/%E9%9D%9E%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82/"/>
+    
+      <category term="分析模型" scheme="http://zhuzw.info/tags/%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>PS最常用二十组快捷键</title>
