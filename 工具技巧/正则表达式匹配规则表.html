@@ -81,18 +81,18 @@
 
 
 
-<meta name="description" content="匹配规则   字符 描述     \ 将下一个字符标记为一个特殊字符、或一个原义字符、或一个向后引用、或一个八进制转义符。例如，“n”匹配字符“n”。“\n”匹配一个换行符。串行“\\”匹配“\”而“\(”则匹配“(”。   ^ 匹配输入字符串的开始位置。如果设置了RegExp对象的Multiline属性，^也匹配“\">
+<meta name="description" content="表达式全集   字符 描述     \ 将下一个字符标记为一个特殊字符、或一个原义字符、或一个向后引用、或一个八进制转义符。例如，“n”匹配字符“n”。“\n”匹配一个换行符。串行“\\”匹配“\”而“\(”则匹配“(”。   ^ 匹配输入字符串的开始位置。如果设置了RegExp对象的Multiline属性，^也匹配“">
 <meta name="keywords" content="正则">
 <meta property="og:type" content="article">
 <meta property="og:title" content="正则表达式匹配规则表">
 <meta property="og:url" content="http://zhuzw.info/工具技巧/正则表达式匹配规则表.html">
 <meta property="og:site_name" content="zhuzw的博客">
-<meta property="og:description" content="匹配规则   字符 描述     \ 将下一个字符标记为一个特殊字符、或一个原义字符、或一个向后引用、或一个八进制转义符。例如，“n”匹配字符“n”。“\n”匹配一个换行符。串行“\\”匹配“\”而“\(”则匹配“(”。   ^ 匹配输入字符串的开始位置。如果设置了RegExp对象的Multiline属性，^也匹配“\n”或“\r”之后的位置。   $ 匹配输入字符串的结束位置。如果设置了RegE">
+<meta property="og:description" content="表达式全集   字符 描述     \ 将下一个字符标记为一个特殊字符、或一个原义字符、或一个向后引用、或一个八进制转义符。例如，“n”匹配字符“n”。“\n”匹配一个换行符。串行“\\”匹配“\”而“\(”则匹配“(”。   ^ 匹配输入字符串的开始位置。如果设置了RegExp对象的Multiline属性，^也匹配“\n”或“\r”之后的位置。   $ 匹配输入字符串的结束位置。如果设置了Reg">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-02-26T09:50:29.647Z">
+<meta property="og:updated_time" content="2019-02-26T10:02:45.172Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="正则表达式匹配规则表">
-<meta name="twitter:description" content="匹配规则   字符 描述     \ 将下一个字符标记为一个特殊字符、或一个原义字符、或一个向后引用、或一个八进制转义符。例如，“n”匹配字符“n”。“\n”匹配一个换行符。串行“\\”匹配“\”而“\(”则匹配“(”。   ^ 匹配输入字符串的开始位置。如果设置了RegExp对象的Multiline属性，^也匹配“\n”或“\r”之后的位置。   $ 匹配输入字符串的结束位置。如果设置了RegE">
+<meta name="twitter:description" content="表达式全集   字符 描述     \ 将下一个字符标记为一个特殊字符、或一个原义字符、或一个向后引用、或一个八进制转义符。例如，“n”匹配字符“n”。“\n”匹配一个换行符。串行“\\”匹配“\”而“\(”则匹配“(”。   ^ 匹配输入字符串的开始位置。如果设置了RegExp对象的Multiline属性，^也匹配“\n”或“\r”之后的位置。   $ 匹配输入字符串的结束位置。如果设置了Reg">
 
 
 
@@ -418,7 +418,7 @@
       
 
       
-        <h3 id="匹配规则"><a href="#匹配规则" class="headerlink" title="匹配规则"></a>匹配规则</h3><table>
+        <h2 id="表达式全集"><a href="#表达式全集" class="headerlink" title="表达式全集"></a>表达式全集</h2><table>
 <thead>
 <tr>
 <th>字符</th>
@@ -468,7 +468,7 @@
 </tr>
 <tr>
 <td>.</td>
-<td>匹配除“<code>\</code><em><code>n</code></em>”之外的任何单个字符。要匹配包括“<code>\</code><em><code>n</code></em>”在内的任何字符，请使用像“<code>(.¦\n)</code>”的模式。</td>
+<td>匹配除“<code>\</code><em><code>n</code></em>”之外的任何单个字符。要匹配包括“<code>\</code><em><code>n</code></em>”在内的任何字符，请使用像“<code>(.&amp;#124;\n)</code>”的模式。</td>
 </tr>
 <tr>
 <td>(pattern)</td>
@@ -476,27 +476,27 @@
 </tr>
 <tr>
 <td>(?:pattern)</td>
-<td>匹配pattern但不获取匹配结果，也就是说这是一个非获取匹配，不进行存储供以后使用。这在使用或字符“<code>(¦)</code>”来组合一个模式的各个部分是很有用。例如“<code>industr(?:y¦ies)</code>”就是一个比“<code>industry¦industries</code>”更简略的表达式。</td>
+<td>匹配pattern但不获取匹配结果，也就是说这是一个非获取匹配，不进行存储供以后使用。这在使用或字符“<code>(&amp;#124;)</code>”来组合一个模式的各个部分是很有用。例如“<code>industr(?:y&amp;#124;ies)</code>”就是一个比“<code>industry&amp;#124;industries</code>”更简略的表达式。</td>
 </tr>
 <tr>
 <td>(?=pattern)</td>
-<td>正向肯定预查，在任何匹配pattern的字符串开始处匹配查找字符串。这是一个非获取匹配，也就是说，该匹配不需要获取供以后使用。例如，“<code>Windows(?=95¦98¦NT¦2000)</code>”能匹配“<code>Windows2000</code>”中的“<code>Windows</code>”，但不能匹配“<code>Windows3.1</code>”中的“<code>Windows</code>”。预查不消耗字符，也就是说，在一个匹配发生后，在最后一次匹配之后立即开始下一次匹配的搜索，而不是从包含预查的字符之后开始。</td>
+<td>正向肯定预查，在任何匹配pattern的字符串开始处匹配查找字符串。这是一个非获取匹配，也就是说，该匹配不需要获取供以后使用。例如，“<code>Windows(?=95&amp;#124;98&amp;#124;NT&amp;#124;2000)</code>”能匹配“<code>Windows2000</code>”中的“<code>Windows</code>”，但不能匹配“<code>Windows3.1</code>”中的“<code>Windows</code>”。预查不消耗字符，也就是说，在一个匹配发生后，在最后一次匹配之后立即开始下一次匹配的搜索，而不是从包含预查的字符之后开始。</td>
 </tr>
 <tr>
 <td>(?!pattern)</td>
-<td>正向否定预查，在任何不匹配pattern的字符串开始处匹配查找字符串。这是一个非获取匹配，也就是说，该匹配不需要获取供以后使用。例如“<code>Windows(?!95¦98¦NT¦2000)</code>”能匹配“<code>Windows3.1</code>”中的“<code>Windows</code>”，但不能匹配“<code>Windows2000</code>”中的“<code>Windows</code>”。预查不消耗字符，也就是说，在一个匹配发生后，在最后一次匹配之后立即开始下一次匹配的搜索，而不是从包含预查的字符之后开始</td>
+<td>正向否定预查，在任何不匹配pattern的字符串开始处匹配查找字符串。这是一个非获取匹配，也就是说，该匹配不需要获取供以后使用。例如“<code>Windows(?!95&amp;#124;98&amp;#124;NT&amp;#124;2000)</code>”能匹配“<code>Windows3.1</code>”中的“<code>Windows</code>”，但不能匹配“<code>Windows2000</code>”中的“<code>Windows</code>”。预查不消耗字符，也就是说，在一个匹配发生后，在最后一次匹配之后立即开始下一次匹配的搜索，而不是从包含预查的字符之后开始</td>
 </tr>
 <tr>
 <td>(?&lt;=pattern)</td>
-<td>反向肯定预查，与正向肯定预查类拟，只是方向相反。例如，“<code>(?&lt;=95¦98¦NT¦2000)Windows</code>”能匹配“<code>2000Windows</code>”中的“<code>Windows</code>”，但不能匹配“<code>3.1Windows</code>”中的“<code>Windows</code>”。</td>
+<td>反向肯定预查，与正向肯定预查类拟，只是方向相反。例如，“<code>(?&lt;=95&amp;#124;98&amp;#124;NT&amp;#124;2000)Windows</code>”能匹配“<code>2000Windows</code>”中的“<code>Windows</code>”，但不能匹配“<code>3.1Windows</code>”中的“<code>Windows</code>”。</td>
 </tr>
 <tr>
 <td>(?&lt;!pattern)</td>
-<td>反向否定预查，与正向否定预查类拟，只是方向相反。例如“<code>(?&lt;!95¦98¦NT¦2000)Windows</code>”能匹配“<code>3.1Windows</code>”中的“<code>Windows</code>”，但不能匹配“<code>2000Windows</code>”中的“<code>Windows</code>”。</td>
+<td>反向否定预查，与正向否定预查类拟，只是方向相反。例如“<code>(?&lt;!95&amp;#124;98&amp;#124;NT&amp;#124;2000)Windows</code>”能匹配“<code>3.1Windows</code>”中的“<code>Windows</code>”，但不能匹配“<code>2000Windows</code>”中的“<code>Windows</code>”。</td>
 </tr>
 <tr>
-<td>x¦y</td>
-<td>匹配x或y。例如，“<code>z¦food</code>”能匹配“<code>z</code>”或“<code>food</code>”。“<code>(z¦f)ood</code>”则匹配“<code>zood</code>”或“<code>food</code>”。</td>
+<td>x&#124;y</td>
+<td>匹配x或y。例如，“<code>z&amp;#124;food</code>”能匹配“<code>z</code>”或“<code>food</code>”。“<code>(z&amp;#124;f)ood</code>”则匹配“<code>zood</code>”或“<code>food</code>”。</td>
 </tr>
 <tr>
 <td>[xyz]</td>
@@ -596,7 +596,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="常用正则表达式"><a href="#常用正则表达式" class="headerlink" title="常用正则表达式"></a>常用正则表达式</h3><table>
+<h2 id="常用正则表达式"><a href="#常用正则表达式" class="headerlink" title="常用正则表达式"></a>常用正则表达式</h2><table>
 <thead>
 <tr>
 <th>用户名</th>
@@ -610,7 +610,7 @@
 </tr>
 <tr>
 <td>十六进制值</td>
-<td>/^#?([a-f0-9]{6}\¦[a-f0-9]{3})$/</td>
+<td>/^#?([a-f0-9]{6}&#124;[a-f0-9]{3})$/</td>
 </tr>
 <tr>
 <td>电子邮箱</td>
@@ -622,27 +622,19 @@
 </tr>
 <tr>
 <td>IP 地址</td>
-<td>/((2[0-4]\d</td>
-<td>25[0-5]</td>
-<td>[01]?\d\d?).){3}(2[0-4]\d</td>
-<td>25[0-5]</td>
-<td>[01]?\d\d?)//^(?:(?:25[0-5]</td>
-<td>2[0-4][0-9]</td>
-<td>[01]?[0-9][0-9]?).){3}(?:25[0-5]</td>
-<td>2[0-4][0-9]</td>
-<td>[01]?[0-9][0-9]?)$/</td>
+<td>/((2[0-4]\d&#124;25[0-5]&#124;[01]?\d\d?).){3}(2[0-4]\d&#124;25[0-5]&#124;[01]?\d\d?)/ /^(?:(?:25[0-5]&#124;2[0-4][0-9]&#124;[01]?[0-9][0-9]?).){3}(?:25[0-5]&#124;2[0-4][0-9]&#124;[01]?[0-9][0-9]?)$/</td>
 </tr>
 <tr>
 <td>HTML 标签</td>
-<td>/^&lt;([a-z]+)([^&lt;]+)<em>(?:&gt;(.</em>)&lt;\/\1&gt;\¦\s+\/&gt;)$/</td>
+<td>/^&lt;([a-z]+)([^&lt;]+)<em>(?:&gt;(.</em>)&lt;\/\1&gt;&#124;\s+\/&gt;)$/</td>
 </tr>
 <tr>
 <td>删除代码\注释</td>
-<td>(?&lt;!http:\¦\S)//.*$</td>
+<td>(?&lt;!http:&#124;\S)//.*$</td>
 </tr>
 <tr>
 <td>Unicode编码中的汉字范围</td>
-<td>/^[\u2E80-\u9FFF]+$/   &#124;</td>
+<td>/^[\u2E80-\u9FFF]+$/</td>
 </tr>
 </tbody>
 </table>
@@ -872,7 +864,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#匹配规则"><span class="nav-number">1.</span> <span class="nav-text">匹配规则</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#常用正则表达式"><span class="nav-number">2.</span> <span class="nav-text">常用正则表达式</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#表达式全集"><span class="nav-number">1.</span> <span class="nav-text">表达式全集</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#常用正则表达式"><span class="nav-number">2.</span> <span class="nav-text">常用正则表达式</span></a></li></ol></div>
             
 
           </div>
