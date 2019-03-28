@@ -1844,7 +1844,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4bb92d;
+  background: #570a4f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2386,13 +2386,6 @@ pre .javascript .function {
 .page-pv .busuanzi-value {
   margin: 0 5px;
 }
-.site-uv {
-  margin-right: 10px;
-}
-.site-uv::after {
-  content: "|";
-  padding-left: 10px;
-}
 .page-archive .archive-page-counter {
   position: relative;
   top: 3px;
@@ -2633,13 +2626,13 @@ pre .javascript .function {
 }
 .header-inner {
   position: absolute;
-  top: 10px;
+  top: 0px;
   overflow: hidden;
   padding: 0;
   width: 240px;
   background: #fff;
-  box-shadow: 10px 0 10px -10px rgba(0,0,0,0.5), -10px 0 10px -10px rgba(0,0,0,0.5);
-  border-radius: 16px;
+  box-shadow: 10px 0 10px -10px rgba(0,0,0,0.1), -10px 0 10px -10px rgba(0,0,0,0.1);
+  border-radius: 12px;
 }
 @media (min-width: 1600px) {
   .container .header-inner {
@@ -2693,14 +2686,14 @@ pre .javascript .function {
 }
 .content-wrap {
   float: right;
-  margin-top: 10px;
+  margin-top: 0px;
   box-sizing: border-box;
   padding: 40px;
   width: calc(100% - 260px);
   background: #fff;
   min-height: 700px;
-  box-shadow: 10px 0 10px -10px rgba(0,0,0,0.5), -10px 0 10px -10px rgba(0,0,0,0.5);
-  border-radius: 16px;
+  box-shadow: 10px 0 10px -10px rgba(0,0,0,0.1), -10px 0 10px -10px rgba(0,0,0,0.1);
+  border-radius: 12px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .content-wrap {
@@ -2718,9 +2711,8 @@ pre .javascript .function {
   }
 }
 .sidebar {
-  position: relative;
+  position: static;
   float: left;
-  top: 10px;
   margin-top: 300px;
   width: 240px;
   background: #f5f7f9;
@@ -2881,8 +2873,8 @@ pre .javascript .function {
   width: 240px;
   color: #555;
   background: #fff;
-  box-shadow: 10px 0 10px -10px rgba(0,0,0,0.5), -10px 0 10px -10px rgba(0,0,0,0.5);
-  border-radius: 16px;
+  box-shadow: 10px 0 10px -10px rgba(0,0,0,0.1), -10px 0 10px -10px rgba(0,0,0,0.1);
+  border-radius: 12px;
   opacity: 0;
 }
 .sidebar-inner.affix {
