@@ -7,7 +7,7 @@ title: zhuzw的博客
 subtitle:  
 description: 我妈说一口不能吃成个胖子，于是我放弃了
 author: zhuzw
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next-reloaded
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -118,12 +118,12 @@ sitemap:
 
 # Post wordcount display settings
 # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
-symbols_count_time:
-  separated_meta: true
-  item_text_post: true
-  item_text_total: false
-  awl: 4
-  wpm: 275
+#symbols_count_time:
+  #separated_meta: true
+  #item_text_post: true
+  #item_text_total: false
+  #awl: 4
+  #wpm: 275
 
 # ---主题next配置清单
 

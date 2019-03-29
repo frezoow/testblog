@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zhuzw的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zhuzw.info/"/>
+  <updated>2019-02-26T04:32:13.004Z</updated>
+  <id>http://zhuzw.info/</id>
+  
+  <author>
+    <name>zhuzw</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>设计心理学读书笔记</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E8%AE%BE%E8%AE%A1%E5%BF%83%E7%90%86%E5%AD%A6%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.html"/>
+    <id>http://zhuzw.info/学习笔记/设计心理学读书笔记.html</id>
+    <published>2018-12-18T04:31:12.000Z</published>
+    <updated>2019-02-26T04:32:13.004Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="好的设计2个重要特性："><a href="#好的设计2个重要特性：" class="headerlink" title="好的设计2个重要特性："></a>好的设计2个重要特性：</h3><p>可视性:所设计的产品能不能让用户明白怎样操作是合理的，在什么位置及如何操作</p><p>易通性:所有设计的意图是什么，产品的预设用途是什么，所有不同的控制和装置起到什么作用。</p><p><strong>工业设计：</strong>是一种专业的服务，为使用者和生产者双方的利益而创造和开发产品与系统的概念和规范，旨在优化功能、价值和外观。</p><p><strong>交互设计：</strong>重点关注人与技术的互动。目标是增强人们理解可以做什么，正在发生什么，以及已经发生了什么。交互设计借鉴了心理学、设计、艺术和情感等基本原则来保证用户得到积极的、愉悦的体验。</p><p><strong>体验设计：</strong>设计产品、流程，服务，以及事件和环境的实践，重点关注整体体验的质量和愉悦感。</p><p><img src="http://ww1.sinaimg.cn/large/006agIcvly1g0jp96t83xj312z0a141g.jpg" alt="以人为本的设计原则"></p><h3 id="示能与意符的概念"><a href="#示能与意符的概念" class="headerlink" title="示能与意符的概念"></a>示能与意符的概念</h3><p>“示能”这个词，是指一个物理对象与人之间的关系（无论是动物还是人类，甚至机器和机器人，它们之间发生的任何交互作用）。</p><p>人们需要某种方式了解他们将要使用的产品或服务，某些标识表明的用途，会发生什么，有什么样的替代方案。人们寻找蛛丝马迹，寻找任何可以帮助他们应对和理解的符号。任何可能标识出有意义的信息的符号非常重要。设计师需要提供这些线索。人们所需要的和设计师必须提供的，就是意符。除此之外，优良的设计要求对产品的目的、结构和设备的操作与使用者进行良好的交代。那就是意符的作用。(“意符”这个词指的是能告诉人们正确操作方式的任何可感知的标记或声音。)</p><p>意符可以是蓄意的，也可以是偶然或意外的（商场的脚印图标）</p><ul><li><p>示能是人和环境之间可能的互动。有些示能是可见的，另有一些不是。</p></li><li><p>预设的用途经常表现为意符，但经常模棱两可。</p></li><li><p>意符是一种提示，特别告诉用户可以采取什么行为，以及应该怎么操作。意符必须是可感知的，否则它们不起作用。</p></li></ul><p>我把提供给用户的适用信息组合叫作“系统映像”。</p><p><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0jpinuqr6j30p50pm47f.jpg" alt="映射的关系"></p><p>自然的映射，利用空间类比得到直接的理解。另有一些自然映射遵循知觉的原理，可以对控制和反馈模式进行自然分组或图式化。</p><h3 id="行动的七个阶段"><a href="#行动的七个阶段" class="headerlink" title="行动的七个阶段"></a>行动的七个阶段</h3><p>一个是目标，三个执行步骤，和三个评估步骤（图2.2）。</p><p>1.目标（确立意图）</p><p>2.计划（确定方案）</p><p>3.确认（行动顺序）</p><p>4.执行（实施行动）</p><p>5.感知（外部世界的状态）</p><p>6.诠释（知觉作用）</p><p>7.对比（目标与结果）</p><p>1.想实现什么？</p><p>2.可能替代的动作序列是什么？</p><p>3.现在能做什么？</p><p>4.该怎么做？</p><p>5.出什么事了？</p><p>6.这是什么意思？</p><p>7.做好了吗？已经达到目标了吗？</p><p><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0jpjk4377j30mi0m1tcc.jpg" alt="执行与评估的鸿沟"></p><p>我们可以使用意符、约束、映射和概念模型来消除执行的沟壑，也可以使用反馈和概念模型来消除评价的沟壑。</p><p><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0jpkdynqfj30l80kxwh3.jpg" alt="行动的7个阶段"></p><p><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0jplaky4oj30qf0ps78r.jpg" alt="前馈与反馈"></p><p><em>有助于回答执行类（做）的信息叫前馈（feedforward）。有助于理解发生了什么的信息叫反馈（feedback）。你怎么知道你能做什么？这就是前馈的作用</em></p><p>目标驱动型行动：行动开始于建立新目标，从顶部开始</p><p>该行动周期从设立目标开始，然后经过执行步骤</p><p>事件驱动型行动：由一些外部世界的事件触发</p><p>从外部世界和周围环境开始，然后经过评估步骤</p><p>行动的七个阶段对设计很有帮助。</p><p>在七个阶段的每一个阶段都显示了用户使用系统问题的地方。七个问题提出了设计的七个话题。设计如何才能传达信息，回答用户的问题？需要通过合理的约束和映射，意符和概念模型，反馈和可见性等方法。有助于回答执行（操作）问题的信息是“前馈”，有助于了解操作结果的信息是“反馈”。</p><h3 id="从行动的七个阶段的观点出发，引导出设计的七个基本原则："><a href="#从行动的七个阶段的观点出发，引导出设计的七个基本原则：" class="headerlink" title="从行动的七个阶段的观点出发，引导出设计的七个基本原则："></a>从行动的七个阶段的观点出发，引导出设计的七个基本原则：</h3><p><strong>1.可视性：</strong>让用户有机会确定哪些行动是合理的，以及呈现该设备的当前状态。</p><p><strong>2.反馈：</strong>关于行动的后果，以及产品或服务当前状态的充分和持续的信息。当执行了一个动作之后，很容易确定新的状态。</p><p><strong>3.概念模型：</strong>设计传达所有必要的信息，创造一个良好的系统概念模型，引导用户理解系统状态，带来掌控感。概念模型同时包括可视性和评估行动的结果。</p><p><strong>4.示能：</strong>设计合理的示能，让期望的行动能够实施。</p><p><strong>5.意符：</strong>有效地使用意符确保可视性，并且很好地沟通和理解反馈。</p><p><strong>6.映射：</strong>使控制和控制结果之间的关系遵循良好的映射原则，尽可能地通过空间布局和时间的连续性来强化映射。</p><p><strong>7.约束：</strong>提供物理、逻辑、语义、文化的约束来指导行动，容易理解。</p><p>四种约束因素：物理、文化、语义和逻辑</p><p>精确的行为可以诞生于含糊不清的知识里，其原因有以下四条：</p><p><strong>1.知识同时储存于头脑中和外部世界里。</strong></p><p><strong>2.无须具备高度精确的知识。</strong></p><p><strong>3.外界存在自然约束条件。</strong></p><p><strong>4.头脑中有关于文化规范与习俗的知识。</strong></p><p>在设计中保持一致性很有效。这意味着在一个系统中已经习得的知识可以被轻而易举地带到另一个系统。</p><p>利用声音作为意符：有时候并非每件物品都要被设计得可见。那就利用声音</p><p>根本原因分析：首先，大多数事故的发生没有单一的原因：通常会有多个事情出错，或者多个事件，只有要它们中的任何一个没有发生，就不会发生事故。这就是著名的“詹姆斯·里森原则”（确定事故背后隐含的深层原因，而不是直接原因）</p><p>其次，为什么一发现人为差错，根本原因分析就停下来了？如果机器设备停止工作了，我们会不停地分析，直到发现失效的零件。</p><h3 id="人为差错分为两大类：失误和错误"><a href="#人为差错分为两大类：失误和错误" class="headerlink" title="人为差错分为两大类：失误和错误"></a>人为差错分为两大类：失误和错误</h3><p><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0jplxthqsj30n00mhjzo.jpg" alt="差错的分类"></p><p>行为模式划分为三种，分别是基于技能的、规则的和知识的</p><p><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0jpmsgtjkj30xc0fzgs9.jpg" alt="行动与差错的深层关系"></p><p>在行动周期里，图A显示出行动的失误来自底层的四个阶段，而错误发生在上层的三个阶段。记忆失效会影响每个阶段之间的过渡（图B中以X显示）。较高层次的记忆失效会导致错误，若发生在较低层次则导致失误。</p><p>最常见的与设计相关的三类失误如下：</p><ul><li><p>撷取性失误：撷取性失误指某个经常做的动作，或刚刚做过的动作突然取代了想要做的动作</p></li><li><p>描述相似性失误：差错发生在与目标相似的对象上</p></li><li><p>功能状态失误：当设备有不同的状态，而相同的控件具有不同的含义(我们称这些为状态模式)，就可能发生功能状态失误。</p></li><li><p>记忆失效性失误：遗忘了孩子。有很多这样的例子，譬如开车旅行期间，把孩子落在休息区。</p></li></ul><p>解决方法3：</p><p>1.使用最少的步骤</p><p>2.对需要完成的步骤提供生动有效的提醒</p><p>3.强制功能：例如，自动取款机通常要求在吐钱之前拿走银行卡</p><h3 id="设计思维"><a href="#设计思维" class="headerlink" title="设计思维"></a>设计思维</h3><p>设计者已经发展出许多方法，<em>可以避免拘泥于太容易实现但没有什么价值的解决方案。</em>他们将原始问题作为一种建议，而不是最终结果，然后集思广益，理解潜藏在问题背后真正的深层因素（像第五章描述的连续询问“五个为什么”，就是挖掘根本原因的方式之一）。这样设计过程就会不断地反复和扩展。设计师拒绝从初始问题一步就跳到解决方案。相反，他们花时间确定真正的、根本的问题所在，然后，不是立即解决问题，而是停下来想一想更充分的潜在方案。只有这样才能最后得出新的建议。<strong>这个流程就叫作设计思维（designthinking）。</strong></p><p>设计思维有两个强大的工具，以人为本的设计思想和双钻（发散—聚焦）设计模式。</p><p>双钻（发散—聚焦）设计模式：设计师经常从质疑拿到的问题开始设计之路：他们会扩大问题的范围，进一步分别检测问题之下隐藏的根本原因，然后聚焦于其中某一个问题的描述。在研究制定解决方案的阶段，首先他们扩展可能的方案，再进行一次发散思考的过程。最后，将这一切重归于某个合适的方案</p><p>四个步骤：“发现”和“定义”，确认正确问题的发散和聚焦阶段；然后是“开发”和“交付”，制定正确方案的发散和聚焦阶段。</p><p><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0jpnomdi0j30se0matd2.jpg" alt="图解双钻设计模式"></p><h3 id="以人为本的设计"><a href="#以人为本的设计" class="headerlink" title="以人为本的设计"></a>以人为本的设计</h3><p>以人为本的设计，即确保满足用户的需求，设计出的产品具有易用性和可理解性，能够完成期待中的任务，并且拥有积极和愉悦的用户体验。有效的设计需要满足一大堆限制约束和用户的期待，包括形状与外观，成本与功效，可靠性与效用，可理解性与易用性，友好的界面，拥有此产品的自豪感，还有用户实际使用中的快乐等等。以人为本的设计就是实现所有这些要求的流程，它强调两个方面：解决正确的问题，采用满足用户需求和能力的恰当方式。</p><p>以人为本的设计流程有四个行动步骤：</p><p>1.观察</p><p>2.激发创意（构思）</p><p>3.打样</p><p>4.测试</p><p><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0jpoudgchj30lz0ld776.jpg" alt="以人为本的设计"></p><p>观察潜在目标人群，激发创意，制作样品，然后测试。不断循环这个过程，直到满意为止。这也经常被称作“螺旋式理论”（与这里描绘的环状稍有不同），强调每一轮的重复都要有提升、进展。</p><h3 id="以活动为中心的设计与以人为本的设计"><a href="#以活动为中心的设计与以人为本的设计" class="headerlink" title="以活动为中心的设计与以人为本的设计"></a>以活动为中心的设计与以人为本的设计</h3><p>强烈关注个体用户的设计理念，是以人为本的设计思想的标志。</p><p>目标有三个基本的层次来控制活动:</p><p>“成为什么”（Be-goals）在最高的、最抽象的层面，它们是最基础的，长久存在，决定人们为什么行动，确定人的自我</p><p>“行动目标”（Do-goals）在下一级，贴近实用的日常行动，更加接近我在行为的七个阶段讨论的目的。</p><p>“执行目标”（Motor-goals），详细定义如何执行这些手段：更多地在行动和操作层面，而不是活动层面。</p><p>新技术的出现，使书籍和交互式媒体，还有各种各样的教育和娱乐材料更易于被人们接受。</p><p>设计师需要让产品符合用户需要，从功能方面，从易学易用性方面，还有产品能否让用户情感愉悦，感到自豪和快乐。换句话说，设计必须考虑用户的整体体验。</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>以人为本的设计就是解决之道，这种理念将用户的需求、能力和行为方式先行分析，然后用设计来满足人们的需求、能力和行为方式。</p><p>以人为本的设计原则就是尽可能地避免限定问题，然后不断地反复验证，寻找问题的真相。解决方法就是快速测试不同的概念，每次测试后都有所改进，从而找到问题所在，产品最终才能真正满足用户需求。在产业中，严苛的时间、预算和其他种种限制对实施以人为本的设计是一种挑战。</p><p>设计产品最难的部分是协调所有的相对独立的部门，它们各自有着不同的目标和优先考虑。每个部门对组成产品的诸多因素的相对重要性都有不同的理解。</p><p>人类的优势在于灵活性和创新，能够想出解决问题的新办法。人类具有创造力和想象力，而不是刻板的和精密的大脑。机器要求精度和准确度，人类则不行。人类特别不擅长提供精确和准确的内容。那么为什么总要人类这样做？为什么把对机器的要求强加于人？</p><p>目标层控制电梯</p><p>仅仅关注于任务有很大的局限性。苹果公司成功地开发了音乐播放器iPod，就揭示了这一点，由于苹果的iPod支持关于听音乐的完整的活动:找歌曲，购买，下载歌曲到播放器里，创建播放列表（能够互相分享），然后聆听美妙的音乐。苹果还允许其他厂家生产外接音箱、麦克风和各种各样的配件来扩充iPod的功能。苹果的播放器使得音乐在整个家庭里共享成为可能，可以通过其他厂家的音响系统来聆听。苹果iPod的成功，在于它整合了两个要素：出色的设计，加上可以支持所有享受音乐的活动。</p><p><strong>科技发展日新月异，而人和文化的变化极其缓慢。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;好的设计2个重要特性：&quot;&gt;&lt;a href=&quot;#好的设计2个重要特性：&quot; class=&quot;headerlink&quot; title=&quot;好的设计2个重要特性：&quot;&gt;&lt;/a&gt;好的设计2个重要特性：&lt;/h3&gt;&lt;p&gt;可视性:所设计的产品能不能让用户明白怎样操作是合理的，在什么位置及如
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="用户体验" scheme="http://zhuzw.info/tags/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/"/>
+    
+      <category term="读书笔记" scheme="http://zhuzw.info/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="设计思维" scheme="http://zhuzw.info/tags/%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VBA常用循环语句</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/VBA%E5%B8%B8%E7%94%A8%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5.html"/>
+    <id>http://zhuzw.info/学习笔记/VBA常用循环语句.html</id>
+    <published>2017-05-20T05:05:40.000Z</published>
+    <updated>2019-02-26T03:46:46.899Z</updated>
+    
+    <content type="html"><![CDATA[<p>Do while：满足条件后，退出循环<br>Do until：直到—时，退出循环<br><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0johnjwtuj30ll08mq5y.jpg" alt="mark"><br><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0joi3lu06j30ks0910x0.jpg" alt="mark"><br><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0joi9w73aj30mj0hyn1d.jpg" alt="mark"><br><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0joigph0tj30li08a76q.jpg" alt="mark"><br><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0joirt6udj30mt0botc8.jpg" alt="mark"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Do while：满足条件后，退出循环&lt;br&gt;Do until：直到—时，退出循环&lt;br&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/mw690/006agIcvly1g0johnjwtuj30ll08mq5y.jpg&quot; alt=&quot;mark&quot;&gt;&lt;br&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="VBA" scheme="http://zhuzw.info/tags/VBA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数组循环中为什么不能对数组元素赋值？</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%95%B0%E7%BB%84%E5%BE%AA%E7%8E%AF%E4%B8%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%AF%B9%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E8%B5%8B%E5%80%BC%EF%BC%9F.html"/>
+    <id>http://zhuzw.info/学习笔记/数组循环中为什么不能对数组元素赋值？.html</id>
+    <published>2017-05-18T05:02:43.000Z</published>
+    <updated>2018-05-21T00:06:06.089Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="问"><a href="#问" class="headerlink" title="问"></a>问</h3><p>For each 元素变量in  集合名称或数组名称<br>语句块1<br>exit for<br>语句块2<br>next 元素变量<br>注意：当在一个数组里循环时，不能对数组元素进行赋值或重新赋值，对于已经赋值的对象数组也只能修改元素的属性。<br>注意里的这句话不能理解，在数组里循环时，怎么就不能赋值或重新赋值，只能修改元素的属性是指什么？</p><h3 id="答"><a href="#答" class="headerlink" title="答"></a>答</h3><p>for each如果是对于集合或对象，就可以修改属性。<br>对于普通的数据，for each 读取出来的是值，而非对象。<br>你对变量赋值，并不会影响数组的元素。<br>好比：arr(1,1)的值为1<br>for each a in arr<br>next<br>第一轮循环时a=1,你对a进行赋值a=100，也只是修改到变量a的值嘛，跟数数组的元素arr(1,1)并无关系。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;问&quot;&gt;&lt;a href=&quot;#问&quot; class=&quot;headerlink&quot; title=&quot;问&quot;&gt;&lt;/a&gt;问&lt;/h3&gt;&lt;p&gt;For each 元素变量in  集合名称或数组名称&lt;br&gt;语句块1&lt;br&gt;exit for&lt;br&gt;语句块2&lt;br&gt;next 元素变量&lt;br&gt;注意：
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="VBA" scheme="http://zhuzw.info/tags/VBA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Markdown 特殊字符转义</title>
+    <link href="http://zhuzw.info/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/Hexo-Markdown-%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%B9%89.html"/>
+    <id>http://zhuzw.info/工具技巧/Hexo-Markdown-特殊字符转义.html</id>
+    <published>2017-05-16T09:51:55.000Z</published>
+    <updated>2019-02-26T10:00:03.462Z</updated>
+    
+    <content type="html"><![CDATA[<p>在使用 Markdown 编写 Hexo 的 Blog 时，对于特殊字符使用“\”转义有时会不成功，最好的方式是直接使用特殊字符的编码，对应如下：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">- &amp;#45; &amp;minus; — 减号</span><br><span class="line">! &amp;#33; — 惊叹号Exclamation mark </span><br><span class="line">” &amp;#34; &amp;quot; 双引号Quotation mark # &amp;#35; — 数字标志Number sign $ &amp;#36; — 美元标志Dollar sign </span><br><span class="line">% &amp;#37; — 百分号Percent sign </span><br><span class="line">&amp; &amp;#38; &amp;amp; Ampersand </span><br><span class="line">‘ &amp;#39; — 单引号Apostrophe </span><br><span class="line">( &amp;#40; — 小括号左边部分Left parenthesis </span><br><span class="line">) &amp;#41; — 小括号右边部分Right parenthesis </span><br><span class="line">* &amp;#42; — 星号Asterisk </span><br><span class="line">+ &amp;#43; — 加号Plus sign </span><br><span class="line">&lt; &amp;#60; &amp;lt; 小于号Less than </span><br><span class="line">= &amp;#61; — 等于符号Equals sign </span><br><span class="line">&gt; &amp;#62; &amp;gt; 大于号Greater than </span><br><span class="line">? &amp;#63; — 问号Question mark </span><br><span class="line">@ &amp;#64; — Commercial at </span><br><span class="line">[ &amp;#91; --- 中括号左边部分Left square bracket </span><br><span class="line">\ &amp;#92; --- 反斜杠Reverse solidus (backslash) </span><br><span class="line">] &amp;#93; — 中括号右边部分Right square bracket </span><br><span class="line">&#123; &amp;#123; — 大括号左边部分Left curly brace </span><br><span class="line">| &amp;#124; — 竖线Vertical bar </span><br><span class="line">&#125; &amp;#125; — 大括号右边部分Right curly brace</span><br></pre></td></tr></table></figure><p>方法来自博客： <a href="http://zhang-jc.github.io/2017/03/30/Hexo-Markdown-%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%B9%89/" target="_blank" rel="noopener">一张假钞的真实世界</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在使用 Markdown 编写 Hexo 的 Blog 时，对于特殊字符使用“\”转义有时会不成功，最好的方式是直接使用特殊字符的编码，对应如下：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutte
+      
+    
+    </summary>
+    
+      <category term="工具技巧" scheme="http://zhuzw.info/categories/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="hexo" scheme="http://zhuzw.info/tags/hexo/"/>
+    
+      <category term="技巧" scheme="http://zhuzw.info/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>过滤真正可行的产品概念——商业模式画布</title>
+    <link href="http://zhuzw.info/%E8%AE%BE%E8%AE%A1%E7%90%86%E8%AE%BA/%E8%BF%87%E6%BB%A4%E7%9C%9F%E6%AD%A3%E5%8F%AF%E8%A1%8C%E7%9A%84%E4%BA%A7%E5%93%81%E6%A6%82%E5%BF%B5%E2%80%94%E2%80%94%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83.html"/>
+    <id>http://zhuzw.info/设计理论/过滤真正可行的产品概念——商业模式画布.html</id>
+    <published>2017-04-26T08:39:13.000Z</published>
+    <updated>2019-03-27T05:20:00.587Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个概念是否可行，更确切地说，一个概念能否在你的公司中被有效地执行出来，是比概念本身更重要的问题。再好的概念都只是 0，有效的执行才是 0 前面的 1，概念遭遇的第一个执行步骤便是过滤。<br>![](<a href="http://ww1.sinaimg.cn/mw690/006agIcvly1g0jpxb2ggjj30jg0" target="_blank" rel="noopener">http://ww1.sinaimg.cn/mw690/006agIcvly1g0jpxb2ggjj30jg0</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;一个概念是否可行，更确切地说，一个概念能否在你的公司中被有效地执行出来，是比概念本身更重要的问题。再好的概念都只是 0，有效的执行才是 0 前面的 1，概念遭遇的第一个执行步骤便是过滤。&lt;br&gt;![](&lt;a href=&quot;http://ww1.sinaimg.cn/mw690
+      
+    
+    </summary>
+    
+      <category term="设计理论" scheme="http://zhuzw.info/categories/%E8%AE%BE%E8%AE%A1%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="产品模式" scheme="http://zhuzw.info/tags/%E4%BA%A7%E5%93%81%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="设计方法" scheme="http://zhuzw.info/tags/%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>麦肯锡市场细分八法</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E9%BA%A6%E8%82%AF%E9%94%A1%E5%B8%82%E5%9C%BA%E7%BB%86%E5%88%86%E5%85%AB%E6%B3%95.html"/>
+    <id>http://zhuzw.info/学习笔记/麦肯锡市场细分八法.html</id>
+    <published>2016-10-03T14:14:02.000Z</published>
+    <updated>2019-02-26T03:41:16.464Z</updated>
+    
+    <content type="html"><![CDATA[<p>麦肯锡市场细分八法常用来进行对用户及市场的分析<br><img src="http://ww1.sinaimg.cn/large/006agIcvly1g0jo8ds27rj30sd0hdwgn.jpg" alt="麦肯锡市场细分八法"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;麦肯锡市场细分八法常用来进行对用户及市场的分析&lt;br&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/006agIcvly1g0jo8ds27rj30sd0hdwgn.jpg&quot; alt=&quot;麦肯锡市场细分八法&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="分析模型" scheme="http://zhuzw.info/tags/%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="市场分析" scheme="http://zhuzw.info/tags/%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用户体验的层次和分类</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E7%9A%84%E5%B1%82%E6%AC%A1%E5%92%8C%E5%88%86%E7%B1%BB.html"/>
+    <id>http://zhuzw.info/学习笔记/用户体验的层次和分类.html</id>
+    <published>2016-03-23T10:43:10.000Z</published>
+    <updated>2019-02-26T03:43:10.342Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="用户体验的五大层次"><a href="#用户体验的五大层次" class="headerlink" title="用户体验的五大层次"></a>用户体验的五大层次</h3><p>用户体验的五大层次包括有用、能用、可用、用得好、形成品牌。</p><h3 id="用户体验的分类"><a href="#用户体验的分类" class="headerlink" title="用户体验的分类"></a>用户体验的分类</h3><p><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0joelxbrzj30gx0upjso.jpg" alt="用户体验的分类"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;用户体验的五大层次&quot;&gt;&lt;a href=&quot;#用户体验的五大层次&quot; class=&quot;headerlink&quot; title=&quot;用户体验的五大层次&quot;&gt;&lt;/a&gt;用户体验的五大层次&lt;/h3&gt;&lt;p&gt;用户体验的五大层次包括有用、能用、可用、用得好、形成品牌。&lt;/p&gt;
+&lt;h3 id=&quot;
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="脑图" scheme="http://zhuzw.info/tags/%E8%84%91%E5%9B%BE/"/>
+    
+      <category term="分析模型" scheme="http://zhuzw.info/tags/%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="用户体验" scheme="http://zhuzw.info/tags/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>产品的非功能需求包括哪些？</title>
+    <link href="http://zhuzw.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E4%BA%A7%E5%93%81%E7%9A%84%E9%9D%9E%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82%E5%8C%85%E6%8B%AC%E5%93%AA%E4%BA%9B%EF%BC%9F.html"/>
+    <id>http://zhuzw.info/学习笔记/产品的非功能需求包括哪些？.html</id>
+    <published>2016-03-10T22:43:10.000Z</published>
+    <updated>2019-02-26T03:44:44.404Z</updated>
+    
+    <content type="html"><![CDATA[<p>安全、性能、兼容、数据统计、帮助、财务、法律、运营、联系我们等皆属于非功能需求。<br><img src="http://ww1.sinaimg.cn/mw690/006agIcvly1g0joglgdbgj30dw0cc0t1.jpg" alt="产品的非功能需求"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;安全、性能、兼容、数据统计、帮助、财务、法律、运营、联系我们等皆属于非功能需求。&lt;br&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/mw690/006agIcvly1g0joglgdbgj30dw0cc0t1.jpg&quot; alt=&quot;产品的非功能需求&quot;&gt;&lt;/
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://zhuzw.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="脑图" scheme="http://zhuzw.info/tags/%E8%84%91%E5%9B%BE/"/>
+    
+      <category term="非功能需求" scheme="http://zhuzw.info/tags/%E9%9D%9E%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82/"/>
+    
+      <category term="分析模型" scheme="http://zhuzw.info/tags/%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PS最常用二十组快捷键</title>
+    <link href="http://zhuzw.info/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/PS%E6%9C%80%E5%B8%B8%E7%94%A8%E4%BA%8C%E5%8D%81%E7%BB%84%E5%BF%AB%E6%8D%B7%E9%94%AE.html"/>
+    <id>http://zhuzw.info/工具技巧/PS最常用二十组快捷键.html</id>
+    <published>2016-01-04T02:39:46.000Z</published>
+    <updated>2017-11-26T14:46:37.836Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是自己以前学photoshop做的一些总结，拿出来和大家分享一下吧！</p></blockquote><ol><li>使用快捷键快速操作.<br>F1 -帮助<br>F2 -剪切<br>F3 -拷贝<br>F4-粘贴<br>Shift+f5-填充<br>Shift+f6-羽化<br>Shift+f7-选择→反选<br>Ctrl+h-隐藏选定区域<br>Ctrl+d-取消选定区域<br>Ctrl+w-关闭文件<br>Ctrl+Q-退出Photoshop<br>Esc-取消操作 <a id="more"></a></li><li>按Tab键可以显示或隐藏工具箱和调色板，按”Shift+Tab”键可以显示或隐藏除工具以外的其他面板。 </li><li>按住Shift用绘画工具在画面点击就可以在每两点间画出直线，按住鼠标拖动便可画出水平或垂直线。 </li><li>使用其他工具时，按住Ctrl键可切换到移动工具的功能（除了选择抓手工具时）按住空格键可切换到抓手工具的功能。 </li><li>同时按住Alt和Ctrl-或+可让画框与画面同时缩放。 </li><li>按住Ctrl双击Photoshop底板相当于新建。 </li><li>在所有设置对话框内，只要按住Alt键，取消键会变成键重设键，按重设键变可恢复默认设置。 </li><li>按Alt+Backspace(Delete)键可将前景色填入选取框按Ctrl+Backspace(Delete)键可将背景色填入选取框。 </li><li>同时按住Ctrl和Alt移动可马上复制到新的图层并可同时移动物体。 </li><li>在图层，通道和路径面板上,按Alt单击,按单击这些面板底部的工具图标时,对于有参数设置的工具可调出相应的对话框来更改设置。 </li><li>若要在两上窗口间拖放拷贝,拖动过程中按住Shift键,图像拖动到目的窗口后会自动居中。 </li><li>按住Shift选择区域时可在原区域上增加新的区域;按住Alt选择区域时,可在原区域上减去新选区域,同时按住Shift和Alt选择区域时,可取得与原选择区域相交的部分 </li><li>移动图层和选取框时,按住Shift键可做水平,垂直或45度角的移动,按键盘上的方向键,可做每次1像素的移动,按住Shift键再键盘上的方向键可做每次10像素的移动。 </li><li>使用笔形工具制作路径是按住Shift键可以强制路径或方向线成水平或垂直或45度角按住Ctrl键可暂时切换到路径选取工具按住Alt键将笔形光标在黑色的接点上单击可以改变方向线的方向，使曲线可以转折；按Alt键用路径选取工具单击路径会选取整个路径，要同时选取多个路径可按住Shift后逐个单击，用路径选取工具是按住Ctrl+Alt键移近路径会切换到加节点与件节点的笔行工具。 </li><li>在使用选取工具时,按Shift键拖动鼠标可以在原选取框外增加选取范围;同时按Shift与Alt键拖动鼠标可以选取与原选取框重叠的范围(交集)。<br>16.alt+Delete加填前景颜色,Ctrl或Shift加Delete填背景颜色。 </li><li>使用滤镜/渲染/云彩时,先按住Alt可加云彩的反差,先按住Shift键则降低反差 。 </li><li>在使用自由变形功能时,按Ctrl键并拖动某一控制点可以进行随意变形的调整,”Shift+Ctrl”键并拖动某一控制点可以时行倾斜调整;按Alt键并拖动某一控制点可以进行对称调整;按Shift+Ctrl+Alt键并拖动某一控制点可以进行透视效果的调整。 </li><li>想从中心开始画选框可按住Alt拖动。</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;这是自己以前学photoshop做的一些总结，拿出来和大家分享一下吧！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;使用快捷键快速操作.&lt;br&gt;F1 -帮助&lt;br&gt;F2 -剪切&lt;br&gt;F3 -拷贝&lt;br&gt;F4-粘贴&lt;br&gt;Shift+f5-填充&lt;br&gt;Shift+f6-羽化&lt;br&gt;Shift+f7-选择→反选&lt;br&gt;Ctrl+h-隐藏选定区域&lt;br&gt;Ctrl+d-取消选定区域&lt;br&gt;Ctrl+w-关闭文件&lt;br&gt;Ctrl+Q-退出Photoshop&lt;br&gt;Esc-取消操作
+    
+    </summary>
+    
+      <category term="工具技巧" scheme="http://zhuzw.info/categories/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="ps" scheme="http://zhuzw.info/tags/ps/"/>
+    
+      <category term="快捷键" scheme="http://zhuzw.info/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OneNote for Windows 中的键盘快捷方式</title>
+    <link href="http://zhuzw.info/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/OneNote%20for%20Windows%20%E4%B8%AD%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F.html"/>
+    <id>http://zhuzw.info/工具技巧/OneNote for Windows 中的键盘快捷方式.html</id>
+    <published>2015-12-29T07:31:40.000Z</published>
+    <updated>2018-05-21T00:41:51.112Z</updated>
+    
+    <content type="html"><![CDATA[<p>[TOC]</p><h3 id="记录笔记和设置笔记格式"><a href="#记录笔记和设置笔记格式" class="headerlink" title="记录笔记和设置笔记格式"></a>记录笔记和设置笔记格式</h3><ul><li>键入和编辑笔记</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>打开一个新的 OneNote 窗口。</td><td>Ctrl+M</td></tr><tr><td>打开一个小的 OneNote 窗口以创建便笺。</td><td>Ctrl+Shift+M 或 Windows+Alt+N</td></tr><tr><td>固定 OneNote 窗口。</td><td>Ctrl+Alt+D</td></tr><tr><td>撤消最后一个操作。</td><td>Ctrl+Z</td></tr><tr><td>恢复最后一个操作。</td><td>Ctrl+Y</td></tr><tr><td>选择当前页上的所有项目。<strong>注意:</strong> 按 Ctrl+A 多次可以增加选择的范围。</td><td>Ctrl+A</td></tr><tr><td>剪切所选的文字或项。</td><td>Ctrl+X</td></tr><tr><td>将所选文本或项复制到剪贴板。</td><td>Ctrl+C</td></tr><tr><td>粘贴剪贴板的内容。</td><td>Ctrl+V</td></tr><tr><td>移至行的开始。</td><td>Home</td></tr><tr><td>移至行的末尾。</td><td>End</td></tr><tr><td>向左移动一个字符。</td><td>向左键</td></tr><tr><td>向右移动一个字符。</td><td>向右键</td></tr><tr><td>向左移动一个字词。</td><td>Ctrl+向左键</td></tr><tr><td>向右移动一个字词。</td><td>Ctrl+向右键</td></tr><tr><td>向左删除一个字符。</td><td>Backspace</td></tr><tr><td>向右删除一个字符。</td><td>DELETE</td></tr><tr><td>向左删除一个字词。</td><td>Ctrl+Backspace</td></tr><tr><td>向右删除一个字词。</td><td>Ctrl+Delete</td></tr><tr><td>插入一个换行符而不开始一个新段落。</td><td>Shift+Enter</td></tr><tr><td>检查拼写。</td><td>F7</td></tr><tr><td>打开当前选定单词的同义词库。</td><td>Shift+F7</td></tr><tr><td>打开当前具有焦点的任何笔记、选项卡或任何其他对象的上下文菜单。</td><td>Shift+F10</td></tr><tr><td>当页面顶部显示“信息栏”时，执行其中建议的操作。</td><td>Ctrl+Shift+W</td></tr></tbody></table><ul><li>设置笔记格式</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>突出显示选定的文本。</td><td>Ctrl+Shift+H 或 Ctrl+Alt+H</td></tr><tr><td>插入链接。</td><td>Ctrl+K</td></tr><tr><td>复制所选文字的格式（格式刷）。</td><td>Ctrl+Shift+C</td></tr><tr><td>将格式粘贴到所选文字（格式刷）。</td><td>Ctrl+Shift+V</td></tr><tr><td>打开一个链接。<strong>注意:</strong> 光标必须放置在带格式的链接文本中的任意位置。</td><td>Enter</td></tr><tr><td>对所选文字应用或删除粗体格式。</td><td>Ctrl+B</td></tr><tr><td>对所选文字应用或删除斜体格式。</td><td>Ctrl+I</td></tr><tr><td>对所选文字应用或删除下划线。</td><td>Ctrl+U</td></tr><tr><td>对所选文字应用或删除删除线。</td><td>Ctrl+连字符 (-)</td></tr><tr><td>对所选文字应用或删除上标格式。</td><td>Ctrl+Shift+=</td></tr><tr><td>对所选文字应用或删除下标格式。</td><td>Ctrl+=</td></tr><tr><td>对所选段落应用或删除项目符号列表格式。</td><td>Ctrl+句点</td></tr><tr><td>向选定段落应用编号列表格式或者删除选定段落的编号列表格式。</td><td>Ctrl+斜线</td></tr><tr><td>向当前笔记应用“标题 1”样式。</td><td>Ctrl+Alt+1</td></tr><tr><td>向当前笔记应用“标题 2”样式。</td><td>Ctrl+Alt+2</td></tr><tr><td>向当前笔记应用“标题 3”样式。</td><td>Ctrl+Alt+3</td></tr><tr><td>向当前笔记应用“标题 4”样式。</td><td>Ctrl+Alt+4</td></tr><tr><td>向当前笔记应用“标题 5”样式。</td><td>Ctrl+Alt+5</td></tr><tr><td>向当前笔记应用“标题 6”样式。</td><td>Ctrl+Alt+6</td></tr><tr><td>向当前笔记应用“正文”样式。</td><td>Ctrl+Shift+N</td></tr><tr><td>左侧段落缩进。</td><td>Alt+Shift+向右键</td></tr><tr><td>取消左侧段落缩进。</td><td>Alt+Shift+向左键</td></tr><tr><td>右对齐选定段落。</td><td>Ctrl+R</td></tr><tr><td>左对齐选定段落。</td><td>Ctrl+L</td></tr><tr><td>增加所选文字的字体大小。</td><td>Ctrl+Shift+&gt;</td></tr><tr><td>减小所选文字的字体大小。</td><td>Ctrl+Shift+&lt;</td></tr><tr><td>清除应用于所选文字的所有格式。</td><td>Ctrl+Shift+N</td></tr><tr><td>显示或隐藏当前页上的基准线。</td><td>Ctrl+Shift+R</td></tr></tbody></table><ul><li>向页面添加项</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>在当前页上插入文档或文件。</td><td>Alt+N, F</td></tr><tr><td>在当前页上将文档或文件作为打印输出插入。</td><td>Alt+N, O</td></tr><tr><td>显示或隐藏当前页上的文档打印输出（当在“高对比度”模式下运行 OneNote 时）。</td><td>Alt+Shift+P</td></tr><tr><td>插入来自文件的图片。</td><td>Alt+N, P</td></tr><tr><td>插入来自扫描仪或相机的图片。</td><td>Alt+N, S</td></tr><tr><td>插入屏幕剪辑<strong>注意:</strong> OneNote 图标必须在 Windows 任务栏最右侧的通知区域处于活动状态。</td><td>Windows 徽标键+S（如果使用的是进行了最新更新的 OneNote 2013，请按 Windows 徽标键+Shift+S）</td></tr><tr><td>插入当前日期。</td><td>Alt+Shift+D</td></tr><tr><td>插入当前日期和时间。</td><td>Alt+Shift+F</td></tr><tr><td>插入当前时间。</td><td>Alt+Shift+T</td></tr><tr><td>插入换行符。</td><td>Shift+Enter</td></tr><tr><td>开始一个数学等式或将所选文字转换为数学等式。</td><td>Alt+=</td></tr><tr><td>插入欧元 (€) 符号。</td><td>Ctrl+Alt+E</td></tr><tr><td>通过向已经键入的文字中添加第二个列来创建一个表。</td><td>Tab</td></tr><tr><td>在只有一行的表中创建另一个列。</td><td>Tab</td></tr><tr><td>当位于表的最后一个单元格中时创建另一行。<strong>注意:</strong> 再按 Enter 一次以完成该表。</td><td>Enter</td></tr><tr><td>在表中当前行之下创建一行。</td><td>Ctrl+Enter</td></tr><tr><td>在表中的同一单元格中创建另一个段落。</td><td>Alt+Enter</td></tr><tr><td>在表中当前列的右侧创建一列。</td><td>Ctrl+Alt+R</td></tr><tr><td>在表中当前行之上创建一行（当光标位于任意行的开始处时）。</td><td>Enter</td></tr><tr><td>删除表中当前的空行（当光标位于该行的开始处时）。</td><td>Del（按两次）</td></tr></tbody></table><ul><li>选择笔记和对象</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>快捷方式</strong></th></tr></thead><tbody><tr><td>选择当前页上的所有项目。<strong>注意:</strong> 按 Ctrl+A 多次可以增加选择的范围。</td><td>Ctrl+A</td></tr><tr><td>选择到行末。</td><td>Shift+End</td></tr><tr><td>选择整个行（当光标位于该行的开始处时）。</td><td>Shift+向下键</td></tr><tr><td>跳转到页面的标题并选择它。</td><td>Ctrl+Shift+T</td></tr><tr><td>取消所选大纲或页面。</td><td>Esc</td></tr><tr><td>将当前段落或多个选定段落向上移动。</td><td>Alt+Shift+向上键</td></tr><tr><td>将当前段落或多个选定段落向下移动。</td><td>Alt+Shift+向下键</td></tr><tr><td>将当前段落或多个选定段落向左移动（减少缩进）。</td><td>Alt+Shift+向左键</td></tr><tr><td>将当前段落或多个选定段落向右移动（增加缩进）。</td><td>Alt+Shift+向右键</td></tr><tr><td>选择当前段落及其下属段落。</td><td>Ctrl+Shift+连字符 (-)</td></tr><tr><td>删除所选笔记或对象。</td><td>Delete</td></tr><tr><td>移至行的开始。</td><td>Home</td></tr><tr><td>移至行的末尾。</td><td>End</td></tr><tr><td>向左移动一个字符。</td><td>向左键</td></tr><tr><td>向右移动一个字符。</td><td>向右键</td></tr><tr><td>返回访问的上一页。</td><td>Alt+向左键</td></tr><tr><td>向前转到访问的下一页。</td><td>Alt+向右键</td></tr><tr><td>停止播放所选音频或视频记录。</td><td>Ctrl+Alt+P 或 Ctrl+Alt+S</td></tr><tr><td>将当前音频或视频记录后退几秒钟。</td><td>Ctrl+Alt+Y</td></tr><tr><td>将当前音频或视频记录快进几秒钟。</td><td>Ctrl+Alt+U</td></tr></tbody></table><ul><li>标记说明</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>应用、标记或清除“待办事项”标记。</td><td>Ctrl+1</td></tr><tr><td>应用或清除“重要”标记。</td><td>Ctrl+2</td></tr><tr><td>应用或清除“问题”标记。</td><td>Ctrl+3</td></tr><tr><td>应用或清除“后续工作”标记。</td><td>Ctrl+4</td></tr><tr><td>应用或清除“定义”标记。</td><td>Ctrl+5</td></tr><tr><td>应用或清除自定义标记。</td><td>Ctrl+6</td></tr><tr><td>应用或清除自定义标记。</td><td>Ctrl+7</td></tr><tr><td>应用或清除自定义标记。</td><td>Ctrl+8</td></tr><tr><td>应用或清除自定义标记。</td><td>Ctrl+9</td></tr><tr><td>删除所选笔记中的所有笔记标记。</td><td>Ctrl+0</td></tr></tbody></table><ul><li>使用大纲</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>通过级别 1 显示。</td><td>Alt+Shift+1</td></tr><tr><td>展开到级别 2。</td><td>Alt+Shift+2</td></tr><tr><td>展开到级别 3。</td><td>Alt+Shift+3</td></tr><tr><td>展开到级别 4。</td><td>Alt+Shift+4</td></tr><tr><td>展开到级别 5。</td><td>Alt+Shift+5</td></tr><tr><td>展开到级别 6。</td><td>Alt+Shift+6</td></tr><tr><td>展开到级别 7。</td><td>Alt+Shift+7</td></tr><tr><td>展开到级别 8。</td><td>Alt+Shift+8</td></tr><tr><td>展开到级别 9。</td><td>Alt+Shift+9</td></tr><tr><td>展开所有级别。</td><td>Alt+Shift+0</td></tr><tr><td>将缩进增加一级。</td><td>Tab</td></tr><tr><td>将缩进减少一级。</td><td>Shift+Tab</td></tr><tr><td>展开折叠的大纲。</td><td>Alt+Shift+加号 (+)</td></tr><tr><td>折叠展开的大纲。</td><td>Alt+Shift+减号 (-)</td></tr></tbody></table><ul><li>指定语言设置</li></ul><blockquote><p><strong>注意:</strong>若要更改笔记的书写方向，必须先在“Microsoft Office 语言首选项”工具中启用从右向左书写语言。</p></blockquote><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>设置从左向右的书写方向。</td><td>Ctrl+左 Shift</td></tr><tr><td>设置从右向左的书写方向。</td><td>Ctrl+右 Shift</td></tr><tr><td>在从右向左的文本中将缩进增加一个级别。</td><td>Tab</td></tr><tr><td>在从右向左的文本中将缩进减少一个级别。</td><td>Shift+Tab</td></tr></tbody></table><h3 id="组织和管理笔记本"><a href="#组织和管理笔记本" class="headerlink" title="组织和管理笔记本"></a>组织和管理笔记本</h3><ul><li>使用页面和便笺</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>启用或禁用整页视图。</td><td>F11</td></tr><tr><td>打开一个新的 OneNote 窗口。</td><td>Ctrl+M</td></tr><tr><td>打开一个小的 OneNote 窗口以创建便笺。</td><td>Ctrl+Shift+M</td></tr><tr><td>展开或折叠页组的选项卡。</td><td>Ctrl+Shift+*</td></tr><tr><td>打印当前页。</td><td>Ctrl+P</td></tr><tr><td>在选定分区的末尾添加一个新页。</td><td>Ctrl+N</td></tr><tr><td>增加页选项卡栏的宽度。</td><td>Ctrl+Shift+[</td></tr><tr><td>减小页选项卡栏的宽度。</td><td>Ctrl+Shift+]</td></tr><tr><td>在当前页之下创建一个相同级别的新页。</td><td>Ctrl+Alt+N</td></tr><tr><td>减少当前页选项卡标签的缩进级别。</td><td>Ctrl+Alt+[</td></tr><tr><td>增加当前页选项卡标签的缩进级别。</td><td>Ctrl+Alt+]</td></tr><tr><td>在当前页之下创建一个新子页。</td><td>Ctrl+Shift+Alt+N</td></tr><tr><td>选择所有项。<strong>注意:</strong> 按 Ctrl+A 多次可以增加选择的范围。</td><td>Ctrl+A</td></tr><tr><td>选择当前页。</td><td>Ctrl+Shift+A如果所选页是组的一部分，则按 Ctrl+A 可选择组中的所有页。</td></tr><tr><td>向上移动所选页选项卡。</td><td>Alt+Shift+向上键</td></tr><tr><td>向下移动所选页选项卡。</td><td>Alt+Shift+向下键</td></tr><tr><td>将插入点移至页标题。</td><td>Ctrl+Shift+T</td></tr><tr><td>转至当前可见的一组页选项卡中的第一页。</td><td>Alt+Page Up</td></tr><tr><td>转至当前可见的一组页选项卡中的最后一页。</td><td>Alt+Page Down</td></tr><tr><td>在当前页中向上滚动。</td><td>Page Up</td></tr><tr><td>在当前页中向下滚动。</td><td>Page Down</td></tr><tr><td>滚动到当前页的顶部。</td><td>Ctrl+Home</td></tr><tr><td>滚动到当前页的底部。</td><td>Ctrl+End</td></tr><tr><td>转至下一段落。</td><td>Ctrl+向下键</td></tr><tr><td>转至上一段落。</td><td>Ctrl+向上键</td></tr><tr><td>转至下一个笔记容器。</td><td>Alt+向下键</td></tr><tr><td>转至行的开头。</td><td>Home</td></tr><tr><td>转至行的结尾。</td><td>End</td></tr><tr><td>向左移动一个字符。</td><td>向左键</td></tr><tr><td>向右移动一个字符。</td><td>向右键</td></tr><tr><td>返回访问的上一页。</td><td>Alt+向左键</td></tr><tr><td>向前转到访问的下一页。</td><td>Alt+向右键</td></tr><tr><td>放大。</td><td>Alt+Ctrl+加号（在数字键盘上） 或 Alt+Ctrl+Shift+加号</td></tr><tr><td>缩小。</td><td>Alt+Ctrl+减号（在数字键盘上） 或 Alt+Ctrl+Shift+连字符</td></tr><tr><td>保存更改。<strong>注意:</strong> 如果 OneNote 正在运行，则您每次更改笔记后，系统都会自动保存笔记。因此，您不必手动保存笔记。</td><td>Ctrl+S</td></tr></tbody></table><ul><li>使用笔记本和分区</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>打开 OneNote。</td><td>Windows 徽标键+Shift+N</td></tr><tr><td>打开一个笔记本。</td><td>Ctrl+O</td></tr><tr><td>“发送至 OneNote”工具</td><td>Windows 徽标键+N</td></tr><tr><td>创建一个新分区。</td><td>Ctrl+T</td></tr><tr><td>打开分区。</td><td>Ctrl+Alt+Shift+O</td></tr><tr><td>转至下一分区。</td><td>Ctrl+Tab</td></tr><tr><td>转至上一分区。</td><td>Ctrl+Shift+Tab</td></tr><tr><td>转至分区中的下一页。</td><td>Ctrl+Page Down</td></tr><tr><td>转至分区中的上一页。</td><td>Ctrl+Page Up</td></tr><tr><td>转至分区中的第一页。</td><td>Alt+Home</td></tr><tr><td>转至分区中的最后一页。</td><td>Alt+End</td></tr><tr><td>转至当前可见的一组页选项卡中的第一页。</td><td>Alt+Page Up</td></tr><tr><td>转至当前可见的一组页选项卡中的最后一页。</td><td>Alt+Page Down</td></tr><tr><td>移动或复制当前页。</td><td>Ctrl+Alt+M</td></tr><tr><td>将焦点放在当前页选项卡上。</td><td>Ctrl+Alt+G</td></tr><tr><td>选择当前页选项卡。</td><td>Ctrl+Shift+A</td></tr><tr><td>将焦点放在当前分区选项卡上。</td><td>Ctrl+Shift+G</td></tr><tr><td>移动当前分区。</td><td>Ctrl+Shift+G，然后按 Shift+F10, M</td></tr><tr><td>切换到导航栏上的另一个笔记本。</td><td>Ctrl+G，然后按向下键或向上键以选择另一个笔记本，再按 Enter。</td></tr></tbody></table><ul><li>搜索笔记</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>将插入点移到“<strong>搜索</strong>”框中以搜索所有笔记本。</td><td>Ctrl+E</td></tr><tr><td>在搜索所有笔记本时，预览下一个结果。</td><td>向下键</td></tr><tr><td>在搜索所有笔记本时，转到选定结果并放弃搜索。</td><td>Enter</td></tr><tr><td>更改搜索范围。</td><td>Ctrl+E、Tab、空格键</td></tr><tr><td>打开“搜索结果”窗格。</td><td>在搜索之后按 Alt+O</td></tr><tr><td>只搜索当前页。<strong>注意:</strong> 你可以随时通过按 Ctrl+E 或 Ctrl+F 在搜索所有位置和只搜索当前页之间切换。</td><td>Ctrl+F</td></tr><tr><td>在搜索当前页时，移到下一个结果。</td><td>Enter 或 F3</td></tr><tr><td>在搜索当前页时，移到上一个结果。</td><td>Shift+F3</td></tr><tr><td>放弃搜索并返回页面。</td><td>Esc</td></tr></tbody></table><h3 id="共享笔记"><a href="#共享笔记" class="headerlink" title="共享笔记"></a>共享笔记</h3><ul><li>与其他人共享笔记</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>使用电子邮件发送所选页。</td><td>Ctrl+Shift+E</td></tr></tbody></table><ul><li>与其他程序共享笔记</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>使用电子邮件发送所选页。</td><td>Ctrl+Shift+E</td></tr><tr><td>从当前所选笔记创建“<strong>今天</strong>”Outlook 任务。</td><td>Ctrl+Shift+1</td></tr><tr><td>从当前所选笔记创建“<strong>明天</strong>”Outlook 任务。</td><td>Ctrl+Shift+2</td></tr><tr><td>从当前所选笔记创建“<strong>本周</strong>”Outlook 任务。</td><td>Ctrl+Shift+3</td></tr><tr><td>从当前所选笔记创建“<strong>下周</strong>”Outlook 任务。</td><td>Ctrl+Shift+4</td></tr><tr><td>从当前所选笔记创建“<strong>无日期</strong>”Outlook 任务。</td><td>Ctrl+Shift+5</td></tr><tr><td>打开所选的 Outlook 任务。</td><td>Ctrl+Shift+K</td></tr><tr><td>将所选的 Outlook 任务标记为已完成。</td><td>Ctrl+Shift+9</td></tr><tr><td>删除所选的 Outlook 任务。</td><td>Ctrl+Shift+0</td></tr><tr><td>在当前共享的笔记本中同步更改。</td><td>Shift+F9</td></tr><tr><td>在所有的共享笔记本中同步更改。</td><td>F9</td></tr><tr><td>将当前页标记为“未读”。</td><td>Ctrl+Q</td></tr></tbody></table><h3 id="保护笔记"><a href="#保护笔记" class="headerlink" title="保护笔记"></a>保护笔记</h3><ul><li>密码保护的分区</li></ul><table><thead><tr><th><strong>执行的操作</strong></th><th><strong>按</strong></th></tr></thead><tbody><tr><td>锁定所有受密码保护的分区。</td><td>Ctrl+Alt+L</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h3 id=&quot;记录笔记和设置笔记格式&quot;&gt;&lt;a href=&quot;#记录笔记和设置笔记格式&quot; class=&quot;headerlink&quot; title=&quot;记录笔记和设置笔记格式&quot;&gt;&lt;/a&gt;记录笔记和设置笔记格式&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;键入和编辑笔记&lt;/li&gt;
+&lt;/
+      
+    
+    </summary>
+    
+      <category term="工具技巧" scheme="http://zhuzw.info/categories/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="快捷键" scheme="http://zhuzw.info/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+      <category term="OneNote" scheme="http://zhuzw.info/tags/OneNote/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>windows快捷键</title>
+    <link href="http://zhuzw.info/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/windows%E5%BF%AB%E6%8D%B7%E9%94%AE.html"/>
+    <id>http://zhuzw.info/工具技巧/windows快捷键.html</id>
+    <published>2015-12-21T14:18:31.000Z</published>
+    <updated>2018-05-21T00:51:01.051Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-带Windows键"><a href="#1-带Windows键" class="headerlink" title="1. 带Windows键"></a>1. 带Windows键</h3><table><thead><tr><th>快捷键</th><th>说明</th></tr></thead><tbody><tr><td>Win</td><td>开始</td></tr><tr><td>Ctrl + Esc</td><td>开始</td></tr><tr><td>Win + F2</td><td>逆时针切换标签</td></tr><tr><td>Win + F3</td><td>顺时针切换标签</td></tr><tr><td>Win + Q</td><td>搜索</td></tr><tr><td>Win + S</td><td>搜索</td></tr><tr><td>Win + E</td><td>打开文件夹</td></tr><tr><td>Win + R</td><td>调出运行命令</td></tr><tr><td>Win + T</td><td>显示任务栏，并在在其中切换</td></tr><tr><td>Win + 数字</td><td>在任务栏快速切换</td></tr><tr><td>Win + Fn +Pause</td><td>显示系统属性</td></tr><tr><td>Win + Home</td><td>最小化 / 还原所有其他窗口</td></tr><tr><td>Win + U</td><td>快速访问</td></tr><tr><td>Win + I</td><td>设置</td></tr><tr><td>Win + P</td><td>投影选择</td></tr><tr><td>Win + Ctrl + P</td><td>投影选择</td></tr><tr><td>Win + Shift + P</td><td>投影选择</td></tr><tr><td>Win + A</td><td>操作中心，显示通知、及类似手机的快捷栏</td></tr><tr><td>Win + D</td><td>最小化窗口</td></tr><tr><td>Win + M</td><td>显示桌面，最小化所有窗口</td></tr><tr><td>Win + Shift +M</td><td>还最小化窗口到桌面上</td></tr><tr><td>Win + G</td><td>屏幕录制</td></tr><tr><td>Win + Alt +R / G</td><td>屏幕录制</td></tr><tr><td>Win + H</td><td>共享</td></tr><tr><td>Win + K</td><td>无线连接（如狼牙，Miracast等）</td></tr><tr><td>Win + L</td><td>锁定计算机</td></tr><tr><td>Win + X</td><td>系统快捷菜单</td></tr><tr><td>Win + 空格</td><td>输入法之间切换</td></tr><tr><td>Win + 上 / 下 / 左 / 右</td><td>移动当前窗口</td></tr><tr><td>Win + Tab</td><td>3D显示任务栏程序</td></tr><tr><td>Win + Alt + Tab</td><td>3D 切换任务栏程序</td></tr><tr><td>Win + ↑</td><td>最大化当前窗口</td></tr><tr><td>Win + ↓</td><td>还原/ 最小化当前窗口</td></tr><tr><td>Win + ←</td><td>当前窗口向左上下最大化</td></tr><tr><td>Win + →</td><td>当前窗口向右上下最大化</td></tr><tr><td>Win + Alt + D</td><td>显示日历</td></tr></tbody></table><h3 id="2-不带Windows键"><a href="#2-不带Windows键" class="headerlink" title="2. 不带Windows键"></a>2. 不带Windows键</h3><table><thead><tr><th>快捷键</th><th>说明</th></tr></thead><tbody><tr><td>F2</td><td>选中状态下，重命名</td></tr><tr><td>F3</td><td>在桌面时或资源文件，查找所有文件</td></tr><tr><td>F4</td><td>地址栏</td></tr><tr><td>F5</td><td>刷新窗口</td></tr><tr><td>F10</td><td>激活当前程序中的菜单条</td></tr><tr><td>F12</td><td>另存为</td></tr><tr><td>Ctrl + F4</td><td>关闭当前应用程序中的当前文本</td></tr><tr><td>Alt ＋F4</td><td>关闭窗口，关机</td></tr><tr><td>Ctrl + F6</td><td>切换到当前应用程序中的下一个文本</td></tr><tr><td>Home</td><td>行首</td></tr><tr><td>Ctrl + Home</td><td>游标移动到文字编辑的开始</td></tr><tr><td>End</td><td>行尾</td></tr><tr><td>Ctrl + End</td><td>游标移动到文字编辑的末尾</td></tr><tr><td>Ctrl + W</td><td>关闭当前窗口</td></tr><tr><td>Ctrl + O</td><td>打开</td></tr><tr><td>Ctrl  + P</td><td>打开打印对话框</td></tr><tr><td>Ctrl + A</td><td>全选</td></tr><tr><td>Ctrl +Ｓ</td><td>保存</td></tr><tr><td>Ctrl + Z</td><td>撤销上一步</td></tr><tr><td>Alt + BackSpace</td><td></td></tr><tr><td>Ctrl + X</td><td>剪切</td></tr><tr><td>Ctrl + Insert / C</td><td>复制</td></tr><tr><td>Ctrl + V</td><td>粘贴</td></tr><tr><td>Shift + Insert</td><td></td></tr><tr><td>Ctrl + N</td><td>新建</td></tr><tr><td>Ctrl + Alt + Esc</td><td>打开任务管理器</td></tr><tr><td>Alt + Tab</td><td>显示当前打开的窗口</td></tr><tr><td>Alt + Tab + Shift</td><td>反向显示当前打开的窗口</td></tr><tr><td>Alt + Esc</td><td>切换当前程序</td></tr><tr><td>Alt + Enter</td><td>查看所选项目的属性</td></tr><tr><td>Alt + 空格</td><td>当前窗口的快捷菜单</td></tr><tr><td>Shift + F10 鼠标右击</td><td>当前活动的快捷菜单</td></tr></tbody></table><h3 id="3-自设"><a href="#3-自设" class="headerlink" title="3. 自设"></a>3. 自设</h3><table><thead><tr><th>快捷键</th><th>说明</th></tr></thead><tbody><tr><td>Ctrl + Alt + K</td><td>打开控制面板</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;1-带Windows键&quot;&gt;&lt;a href=&quot;#1-带Windows键&quot; class=&quot;headerlink&quot; title=&quot;1. 带Windows键&quot;&gt;&lt;/a&gt;1. 带Windows键&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;快捷键&lt;/th&gt;
+&lt;
+      
+    
+    </summary>
+    
+      <category term="工具技巧" scheme="http://zhuzw.info/categories/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="快捷键" scheme="http://zhuzw.info/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+      <category term="Windows" scheme="http://zhuzw.info/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>美规和中规的区别</title>
+    <link href="http://zhuzw.info/%E6%B1%BD%E8%BD%A6%E7%9F%A5%E8%AF%86/%E7%BE%8E%E8%A7%84%E5%92%8C%E4%B8%AD%E8%A7%84%E7%9A%84%E5%8C%BA%E5%88%AB.html"/>
+    <id>http://zhuzw.info/汽车知识/美规和中规的区别.html</id>
+    <published>2015-12-16T03:32:18.000Z</published>
+    <updated>2017-11-27T12:37:10.650Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="什么是美规车"><a href="#什么是美规车" class="headerlink" title="什么是美规车"></a>什么是美规车</h3><blockquote><p>美规车——即指国外生产厂同一流水线上的电脑显示该车销往美洲地区、南美和北美。当然同一车型日前市场上已有个别欧规和中东规格车， 同样情况显示销往欧洲地区和中东地区。<br>美规车当中的“规”字是规格的意思，那么美规车就是“美国规格汽车”。同类的名词还有：中规车，日规车；这样的命名对于洲际也适用。</p></blockquote><p>美规车就是制造商迎合北美地区法律法规而制造出来可以在可以在北美地区【美国】道路行驶的汽车。<br>美规车其他分类有：美系美规车{林肯、凯迪拉克、福特等}，日系美规车{霸道、凌志等}，欧系美规车{宝马、奔驰等}。<br>美规车就是经销商通过贸易公司从美国4S店直接进口过来的美国规格的车辆。<br>有些车还有中东规格的车辆，日系的这种车辆很多，大部分日本汽车制造商都有制造中东规格的车{丰田57.47等}。<br>美规车有小批量和三C{认证}之分。4S店经营进口中规车都是经过三C认证的。<br>美规车也就是进口车 中规车就是汽车生产厂商生产出来符合中国法令规定的车辆。<br>中规车其他分类有：中国本国厂商制造出来的车辆{自主品牌}。<br>外国厂商中国设厂制造出来的车辆{多数都是联合方式如‘上海大众’‘一汽大众’}。<br>外国厂商国外制造符合中国法令并通过3C认证的车辆{奔驰，宝马等}。<br><a id="more"></a></p><h3 id="美规车为什么便宜"><a href="#美规车为什么便宜" class="headerlink" title="美规车为什么便宜"></a>美规车为什么便宜</h3><p>美规车配置比较自由，配置可选 性强，中间只经过经销商，提车周期 短，不用加价提车省去了很多费用， 如果在配置基本相同的条件下，美规 车价格更低。</p><p>所谓美规车中规车中的“规” 实际上指交通法规而言，销往美国适 应美国交通法规的称为美规，销往中 国市场的成为中规车。</p><h3 id="美规车几大误区"><a href="#美规车几大误区" class="headerlink" title="美规车几大误区"></a>美规车几大误区</h3><p>要想了解美规车，就要先知道何为中规车。中规–即国外生产厂流水线上的电脑显示该车销往中国地区。 中规车其他分类有：中国本国厂商制造出来的车辆自主品牌。 外国厂商中国设厂制造出来的车辆多数都是联合方式如‘上海大众’ ‘一 气大众’。外国厂商国外制造符合中国法令并通过3C 认证的车辆奔驰， 宝马等。</p><p>美规–车即指国外生产厂同一流水线上的电脑显示该车销往美洲地区、南 美和北美。当然同一车型日前市场上已有个别欧规和中东规格车，同样情 况显示销往欧洲地区和中东地区。美规车其他分类有：美系美规车（林肯、 凯迪拉克、福特等），日系美规车（霸道、凌志等），欧系美规车（宝马、奔 驰等）,是经销商通过贸易公司从美国4S 店直接进口过来的美国规格的车 辆。有些车还有中东规格的车辆，日系的这种车辆很多，大部分日本汽车 制造商都有制造中东规格的车（丰田5700.4700等）。</p><h3 id="对于美规车，主要存在一下几点问题（也可称为误区）："><a href="#对于美规车，主要存在一下几点问题（也可称为误区）：" class="headerlink" title="对于美规车，主要存在一下几点问题（也可称为误区）："></a>对于美规车，主要存在一下几点问题（也可称为误区）：</h3><p>落户问题： 中规车有区域限制，比如你在宝马 A 区买的车是不可以上 B 区落牌照的。 但是通过特殊方式是可以落牌照的。 美规车手续齐全后就可以在全国落牌，部分地区有些小规定，可以通过当地的汽车中介落牌。美规车完税后就可以销售，完税后大概30到45日内可 以拿到手续。<br>配置问题： 美规车可以直接看配置，因为都是经销商已经买过来的车，所以配置选择 有些局限性，但可选性也很高，因为配置繁多。 如果预定美规车可选配置很多，美国订车体现的是个性所以自主性很强。 中规车到4S 店直接选车， 自己定车加配置， 有些车型4S 店订车强制加配置。 畅销车型4S 店是会加钱卖车的。 中规车如4S 店没有现车是可以通过二级经销商买到现车的， 但还是得加钱。<br>销售方式： 美规车是经销商直接销售到最终用户手里。 中规车是4S 店销售到最终用户手里。 中规车可以通过二级购得。<br>产地问题： 相同一款车美规的和中规的产地基本是一样的。比如你买奥迪 Q7中规美规 都是产自斯洛伐克。<br>质量问题： 中规车美规车质量都是一样的。在中国设厂生产出来的中规车辆外观细节 方面做的要比美规中东规格的车辆要细腻一些，如丰田的酷路泽4700等。</p><p>航菜单问题： 中规车都可以直接使用没有问题。 美规车在中国的主要车型菜单都可以改。 都是拆卸方式的改装，目前唯独宝马有免拆的，但价格有些贵。 导航基本上都可以加装中文导航，日系的丰田一类车型菜单是改不了的， 可以加装中文导航。<br>油品问题： 两种车之间没有太大的区别，现在中国的油品是有保证的。 柴油车型在北方地区目前还是不建议使用。 柴油车冒白烟的问题是一种净化排污的方式，在这里就不过多的解释原理 了。</p><p>质保问题： 中规车在上牌照以后可以直接到4S 店售后保养，如出现非人为的质量问题 4S 店可以维修。 4S 店免费维修的前提是“必须在4S 店做规定的公里数保养，并且有记录在 案” 。个别问题在洽谈协商。汽车品牌决定4S 店的售后质量。 美规部分车型在关单商检手续齐全并上牌后可以做认证， 认证之后可 享受4店的全球联保。 美规车在4S 店质保的前提也是“必须在4S 店做规定的公里数保养，并且有 记录在案” 。个别问题在洽谈协商。 目前依据个人的了解只有“奔驰,宝马，卡宴”这三个品牌的美规车可以在 中国的4S 店做“PDI”认证。 而大多数美规车在中国是没有质保的，但也是中国市场没有的车型。</p><p>配件问题： 中规车的配件比较齐全，省会城市的配件市场基本都可以买得到，价格依 配件的质量而定。如买不到可以到4S 店去，4S 店的配件比较齐全，即使不 齐全需要等待的时间也不长。 美规车部分车型配件也比较齐全，省会城市的配件市场基本可以买到，如 没有配件可以订购。<br>PDI（首次上道检测）如何做： 车辆上牌以后提供发票关单已经行车执照到4S 店就可以做了。 各个地区以及各个车型的价格是不一样的。如奔驰，北京1500、天津2000、昆明800、长春6000，即使不做 PDI 如出现产品本身的缺陷而导致的问题4S 店也是会处理，只有 全球联保车型做的好的才享受这些待遇。但是这个和4S 点的关系得过硬。</p><p>价格问题： 相同配置的车3.6以下的相差大概5-10W，4.2以上相差大概10-15W 以上。 出现以上差价原因是4S 店的运作成本要高很多，而经营美规车的经销商比 较多价格压的比较低，市场掌握不好有些车甚至赔钱。<br>发动机问题： 有些人问美规车和中规车发动机有什么区别？ 同一个厂家，同一个产地，生产出来的同一款汽车带有同一型号的发动机 的汽车是没有上面区别的。</p><p>以上就是关于美规车的一些简单介绍和了解，其中也会有一个与中规车之间的比较，因为两者是既相互联系又相互区别的，本身就是一个矛盾体。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;什么是美规车&quot;&gt;&lt;a href=&quot;#什么是美规车&quot; class=&quot;headerlink&quot; title=&quot;什么是美规车&quot;&gt;&lt;/a&gt;什么是美规车&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;美规车——即指国外生产厂同一流水线上的电脑显示该车销往美洲地区、南美和北美。当然同一车型日前市场上已有个别欧规和中东规格车， 同样情况显示销往欧洲地区和中东地区。&lt;br&gt;美规车当中的“规”字是规格的意思，那么美规车就是“美国规格汽车”。同类的名词还有：中规车，日规车；这样的命名对于洲际也适用。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;美规车就是制造商迎合北美地区法律法规而制造出来可以在可以在北美地区【美国】道路行驶的汽车。&lt;br&gt;美规车其他分类有：美系美规车{林肯、凯迪拉克、福特等}，日系美规车{霸道、凌志等}，欧系美规车{宝马、奔驰等}。&lt;br&gt;美规车就是经销商通过贸易公司从美国4S店直接进口过来的美国规格的车辆。&lt;br&gt;有些车还有中东规格的车辆，日系的这种车辆很多，大部分日本汽车制造商都有制造中东规格的车{丰田57.47等}。&lt;br&gt;美规车有小批量和三C{认证}之分。4S店经营进口中规车都是经过三C认证的。&lt;br&gt;美规车也就是进口车 中规车就是汽车生产厂商生产出来符合中国法令规定的车辆。&lt;br&gt;中规车其他分类有：中国本国厂商制造出来的车辆{自主品牌}。&lt;br&gt;外国厂商中国设厂制造出来的车辆{多数都是联合方式如‘上海大众’‘一汽大众’}。&lt;br&gt;外国厂商国外制造符合中国法令并通过3C认证的车辆{奔驰，宝马等}。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="汽车知识" scheme="http://zhuzw.info/categories/%E6%B1%BD%E8%BD%A6%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="美规" scheme="http://zhuzw.info/tags/%E7%BE%8E%E8%A7%84/"/>
+    
+      <category term="中规" scheme="http://zhuzw.info/tags/%E4%B8%AD%E8%A7%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>正则表达式匹配规则表</title>
+    <link href="http://zhuzw.info/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D%E8%A7%84%E5%88%99%E8%A1%A8.html"/>
+    <id>http://zhuzw.info/工具技巧/正则表达式匹配规则表.html</id>
+    <published>2015-09-26T02:06:25.000Z</published>
+    <updated>2019-02-26T10:02:45.172Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="表达式全集"><a href="#表达式全集" class="headerlink" title="表达式全集"></a>表达式全集</h2><table><thead><tr><th>字符</th><th>描述</th></tr></thead><tbody><tr><td>\</td><td>将下一个字符标记为一个特殊字符、或一个原义字符、或一个向后引用、或一个八进制转义符。例如，“<code>n</code>”匹配字符“<code>n</code>”。“<code>\n</code>”匹配一个换行符。串行“<code>\\</code>”匹配“<code>\</code>”而“<code>\(</code>”则匹配“<code>(</code>”。</td></tr><tr><td>^</td><td>匹配输入字符串的开始位置。如果设置了RegExp对象的Multiline属性，^也匹配“<code>\n</code>”或“<code>\r</code>”之后的位置。</td></tr><tr><td>$</td><td>匹配输入字符串的结束位置。如果设置了RegExp对象的Multiline属性，$也匹配“<code>\n</code>”或“<code>\r</code>”之前的位置。</td></tr><tr><td>*</td><td>匹配前面的子表达式零次或多次。例如，zo<em>能匹配“<code>z</code>”以及“<code>zoo</code>”。</em>等价于{0,}。</td></tr><tr><td>+</td><td>匹配前面的子表达式一次或多次。例如，“<code>zo+</code>”能匹配“<code>zo</code>”以及“<code>zoo</code>”，但不能匹配“<code>z</code>”。+等价于{1,}。</td></tr><tr><td>?</td><td>匹配前面的子表达式零次或一次。例如，“<code>do(es)?</code>”可以匹配“<code>does</code>”或“<code>does</code>”中的“<code>do</code>”。?等价于{0,1}。</td></tr><tr><td>{<em>n</em>}</td><td><em>n</em>是一个非负整数。匹配确定的<em>n</em>次。例如，“<code>o{2}</code>”不能匹配“<code>Bob</code>”中的“<code>o</code>”，但是能匹配“<code>food</code>”中的两个o。</td></tr><tr><td>{<em>n</em>,}</td><td><em>n</em>是一个非负整数。至少匹配<em>n</em>次。例如，“<code>o{2,}</code>”不能匹配“<code>Bob</code>”中的“<code>o</code>”，但能匹配“<code>foooood</code>”中的所有o。“<code>o{1,}</code>”等价于“<code>o+</code>”。“<code>o{0,}</code>”则等价于“<code>o*</code>”。</td></tr><tr><td>{<em>n</em>,<em>m</em>}</td><td><em>m</em>和<em>n</em>均为非负整数，其中<em>n</em>&lt;=<em>m</em>。最少匹配<em>n</em>次且最多匹配<em>m</em>次。例如，“<code>o{1,3}</code>”将匹配“<code>fooooood</code>”中的前三个o。“<code>o{0,1}</code>”等价于“<code>o?</code>”。请注意在逗号和两个数之间不能有空格。</td></tr><tr><td>?</td><td>当该字符紧跟在任何一个其他限制符（<em>,+,?，{</em>n<em>}，{</em>n<em>,}，{</em>n<em>,</em>m*}）后面时，匹配模式是非贪婪的。非贪婪模式尽可能少的匹配所搜索的字符串，而默认的贪婪模式则尽可能多的匹配所搜索的字符串。例如，对于字符串“<code>oooo</code>”，“<code>o+?</code>”将匹配单个“<code>o</code>”，而“<code>o+</code>”将匹配所有“<code>o</code>”。</td></tr><tr><td>.</td><td>匹配除“<code>\</code><em><code>n</code></em>”之外的任何单个字符。要匹配包括“<code>\</code><em><code>n</code></em>”在内的任何字符，请使用像“<code>(.&amp;#124;\n)</code>”的模式。</td></tr><tr><td>(pattern)</td><td>匹配pattern并获取这一匹配。所获取的匹配可以从产生的Matches集合得到，在VBScript中使用SubMatches集合，在JScript中则使用$0…$9属性。要匹配圆括号字符，请使用“<code>\(</code>”或“<code>\)</code>”。</td></tr><tr><td>(?:pattern)</td><td>匹配pattern但不获取匹配结果，也就是说这是一个非获取匹配，不进行存储供以后使用。这在使用或字符“<code>(&amp;#124;)</code>”来组合一个模式的各个部分是很有用。例如“<code>industr(?:y&amp;#124;ies)</code>”就是一个比“<code>industry&amp;#124;industries</code>”更简略的表达式。</td></tr><tr><td>(?=pattern)</td><td>正向肯定预查，在任何匹配pattern的字符串开始处匹配查找字符串。这是一个非获取匹配，也就是说，该匹配不需要获取供以后使用。例如，“<code>Windows(?=95&amp;#124;98&amp;#124;NT&amp;#124;2000)</code>”能匹配“<code>Windows2000</code>”中的“<code>Windows</code>”，但不能匹配“<code>Windows3.1</code>”中的“<code>Windows</code>”。预查不消耗字符，也就是说，在一个匹配发生后，在最后一次匹配之后立即开始下一次匹配的搜索，而不是从包含预查的字符之后开始。</td></tr><tr><td>(?!pattern)</td><td>正向否定预查，在任何不匹配pattern的字符串开始处匹配查找字符串。这是一个非获取匹配，也就是说，该匹配不需要获取供以后使用。例如“<code>Windows(?!95&amp;#124;98&amp;#124;NT&amp;#124;2000)</code>”能匹配“<code>Windows3.1</code>”中的“<code>Windows</code>”，但不能匹配“<code>Windows2000</code>”中的“<code>Windows</code>”。预查不消耗字符，也就是说，在一个匹配发生后，在最后一次匹配之后立即开始下一次匹配的搜索，而不是从包含预查的字符之后开始</td></tr><tr><td>(?&lt;=pattern)</td><td>反向肯定预查，与正向肯定预查类拟，只是方向相反。例如，“<code>(?&lt;=95&amp;#124;98&amp;#124;NT&amp;#124;2000)Windows</code>”能匹配“<code>2000Windows</code>”中的“<code>Windows</code>”，但不能匹配“<code>3.1Windows</code>”中的“<code>Windows</code>”。</td></tr><tr><td>(?&lt;!pattern)</td><td>反向否定预查，与正向否定预查类拟，只是方向相反。例如“<code>(?&lt;!95&amp;#124;98&amp;#124;NT&amp;#124;2000)Windows</code>”能匹配“<code>3.1Windows</code>”中的“<code>Windows</code>”，但不能匹配“<code>2000Windows</code>”中的“<code>Windows</code>”。</td></tr><tr><td>x&#124;y</td><td>匹配x或y。例如，“<code>z&amp;#124;food</code>”能匹配“<code>z</code>”或“<code>food</code>”。“<code>(z&amp;#124;f)ood</code>”则匹配“<code>zood</code>”或“<code>food</code>”。</td></tr><tr><td>[xyz]</td><td>字符集合。匹配所包含的任意一个字符。例如，“<code>[abc]</code>”可以匹配“<code>plain</code>”中的“<code>a</code>”。</td></tr><tr><td>[^xyz]</td><td>负值字符集合。匹配未包含的任意字符。例如，“<code>[^abc]</code>”可以匹配“<code>plain</code>”中的“<code>p</code>”。</td></tr><tr><td>[a-z]</td><td>字符范围。匹配指定范围内的任意字符。例如，“<code>[a-z]</code>”可以匹配“<code>a</code>”到“<code>z</code>”范围内的任意小写字母字符。</td></tr><tr><td>[^a-z]</td><td>负值字符范围。匹配任何不在指定范围内的任意字符。例如，“<code>[^a-z]</code>”可以匹配任何不在“<code>a</code>”到“<code>z</code>”范围内的任意字符。</td></tr><tr><td>\b</td><td>匹配一个单词边界，也就是指单词和空格间的位置。例如，“<code>er\b</code>”可以匹配“<code>never</code>”中的“<code>er</code>”，但不能匹配“<code>verb</code>”中的“<code>er</code>”。</td></tr><tr><td>\B</td><td>匹配非单词边界。“<code>er\B</code>”能匹配“<code>verb</code>”中的“<code>er</code>”，但不能匹配“<code>never</code>”中的“<code>er</code>”。</td></tr><tr><td>\cx</td><td>匹配由x指明的控制字符。例如，\cM匹配一个Control-M或回车符。x的值必须为A-Z或a-z之一。否则，将c视为一个原义的“<code>c</code>”字符。</td></tr><tr><td>\d</td><td>匹配一个数字字符。等价于[0-9]。</td></tr><tr><td>\D</td><td>匹配一个非数字字符。等价于[^0-9]。</td></tr><tr><td>\f</td><td>匹配一个换页符。等价于\x0c和\cL。</td></tr><tr><td>\n</td><td>匹配一个换行符。等价于\x0a和\cJ。</td></tr><tr><td>\r</td><td>匹配一个回车符。等价于\x0d和\cM。</td></tr><tr><td>\s</td><td>匹配任何空白字符，包括空格、制表符、换页符等等。等价于[ \f\n\r\t\v]。</td></tr><tr><td>\S</td><td>匹配任何非空白字符。等价于[^ \f\n\r\t\v]。</td></tr><tr><td>\t</td><td>匹配一个制表符。等价于\x09和\cI。</td></tr><tr><td>\v</td><td>匹配一个垂直制表符。等价于\x0b和\cK。</td></tr><tr><td>\w</td><td>匹配包括下划线的任何单词字符。等价于“<code>[A-Za-z0-9_]</code>”。</td></tr><tr><td>\W</td><td>匹配任何非单词字符。等价于“<code>[^A-Za-z0-9_]</code>”。</td></tr><tr><td>\x<em>n</em></td><td>匹配<em>n</em>，其中<em>n</em>为十六进制转义值。十六进制转义值必须为确定的两个数字长。例如，“<code>\x41</code>”匹配“<code>A</code>”。“<code>\x041</code>”则等价于“<code>\x04&amp;1</code>”。正则表达式中可以使用ASCII编码。.</td></tr><tr><td>*num*</td><td>匹配<em>num</em>，其中<em>num</em>是一个正整数。对所获取的匹配的引用。例如，“<code>(.)\1</code>”匹配两个连续的相同字符。</td></tr><tr><td>*n*</td><td>标识一个八进制转义值或一个向后引用。如果*n<em>之前至少</em>n<em>个获取的子表达式，则</em>n<em>为向后引用。否则，如果</em>n<em>为八进制数字（0-7），则</em>n*为一个八进制转义值。</td></tr><tr><td>*nm*</td><td>标识一个八进制转义值或一个向后引用。如果*nm<em>之前至少有</em>nm<em>个获得子表达式，则</em>nm<em>为向后引用。如果\</em>nm<em>之前至少有</em>n<em>个获取，则</em>n<em>为一个后跟文字</em>m<em>的向后引用。如果前面的条件都不满足，若</em>n<em>和</em>m<em>均为八进制数字（0-7），则\</em>nm<em>将匹配八进制转义值</em>nm*。</td></tr><tr><td>*nml*</td><td>如果<em>n</em>为八进制数字（0-3），且<em>m和l</em>均为八进制数字（0-7），则匹配八进制转义值<em>nm</em>l。</td></tr><tr><td>\u<em>n</em></td><td>匹配<em>n</em>，其中<em>n</em>是一个用四个十六进制数字表示的Unicode字符。例如，\u00A9匹配版权符号（©）。</td></tr></tbody></table><h2 id="常用正则表达式"><a href="#常用正则表达式" class="headerlink" title="常用正则表达式"></a>常用正则表达式</h2><table><thead><tr><th>用户名</th><th>/^[a-z0-9_-]{3,16}$/</th></tr></thead><tbody><tr><td>密码</td><td>/^[a-z0-9_-]{6,18}$/</td></tr><tr><td>十六进制值</td><td>/^#?([a-f0-9]{6}&#124;[a-f0-9]{3})$/</td></tr><tr><td>电子邮箱</td><td>/^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/ /^[a-z\d]+(.[a-z\d]+)*@(<a href="-[\da-z]">\da-z</a>?)+(.{1,2}[a-z]+)+$/</td></tr><tr><td>URL</td><td>/^(https?:\/\/)?([\da-z.-]+).([a-z.]{2,6})([\/\w .-]<em>)</em>\/?$/</td></tr><tr><td>IP 地址</td><td>/((2[0-4]\d&#124;25[0-5]&#124;[01]?\d\d?).){3}(2[0-4]\d&#124;25[0-5]&#124;[01]?\d\d?)/ /^(?:(?:25[0-5]&#124;2[0-4][0-9]&#124;[01]?[0-9][0-9]?).){3}(?:25[0-5]&#124;2[0-4][0-9]&#124;[01]?[0-9][0-9]?)$/</td></tr><tr><td>HTML 标签</td><td>/^&lt;([a-z]+)([^&lt;]+)<em>(?:&gt;(.</em>)&lt;\/\1&gt;&#124;\s+\/&gt;)$/</td></tr><tr><td>删除代码\注释</td><td>(?&lt;!http:&#124;\S)//.*$</td></tr><tr><td>Unicode编码中的汉字范围</td><td>/^[\u2E80-\u9FFF]+$/</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;表达式全集&quot;&gt;&lt;a href=&quot;#表达式全集&quot; class=&quot;headerlink&quot; title=&quot;表达式全集&quot;&gt;&lt;/a&gt;表达式全集&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字符&lt;/th&gt;
+&lt;th&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;
+      
+    
+    </summary>
+    
+      <category term="工具技巧" scheme="http://zhuzw.info/categories/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="正则" scheme="http://zhuzw.info/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
+  
+</feed>
