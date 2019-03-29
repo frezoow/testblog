@@ -3,16 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Pm dog's blog
+title: PmDog'sBlog
 subtitle:  心有饕餮，细嗅蔷薇
-description: 我妈说一口不能吃成个胖子，于是我放弃了
+description: 我要是能在积极一点就好了📌📌📌
+# 我妈说一口不能吃成个胖子，于是我放弃了
 author: Zhuzw
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zhuzw.info
+url: http://zwzhu.info
 # permalink: :year/:month/:day/:title/
 permalink: :category/:title.html
 permalink_defaults: lang:en
