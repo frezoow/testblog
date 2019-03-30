@@ -8,7 +8,7 @@ subtitle:  心有饕餮，细嗅蔷薇
 description: 我要是能在积极一点就好了📌📌📌
 # 我妈说一口不能吃成个胖子，于是我放弃了
 author: Zhuzw
-language: zh-CN
+language: zh-CN #zh-Hans
 timezone:
 
 # URL
@@ -124,6 +124,7 @@ symbols_count_time:
 	time: true
 	total_symbols: true
 	total_time: true
+
 
 # ---主题next配置清单
 
