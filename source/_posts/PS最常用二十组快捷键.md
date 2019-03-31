@@ -9,6 +9,7 @@ categories: 工具技巧
 ---
 > 这是自己以前学photoshop做的一些总结，拿出来和大家分享一下吧！
 
+<div class="note default">
 1. 使用快捷键快速操作. 
 F1 -帮助 
 F2 -剪切 
@@ -16,12 +17,12 @@ F3 -拷贝
 F4-粘贴 
 Shift+f5-填充 
 Shift+f6-羽化 
+<!-- more -->
 Shift+f7-选择→反选 
 Ctrl+h-隐藏选定区域 
 Ctrl+d-取消选定区域 
 Ctrl+w-关闭文件 
 Ctrl+Q-退出Photoshop 
-<!-- more -->
 Esc-取消操作 
 2. 按Tab键可以显示或隐藏工具箱和调色板，按"Shift+Tab"键可以显示或隐藏除工具以外的其他面板。 
 3. 按住Shift用绘画工具在画面点击就可以在每两点间画出直线，按住鼠标拖动便可画出水平或垂直线。 
@@ -41,3 +42,7 @@ Esc-取消操作
 17. 使用滤镜/渲染/云彩时,先按住Alt可加云彩的反差,先按住Shift键则降低反差 。 
 18. 在使用自由变形功能时,按Ctrl键并拖动某一控制点可以进行随意变形的调整,"Shift+Ctrl"键并拖动某一控制点可以时行倾斜调整;按Alt键并拖动某一控制点可以进行对称调整;按Shift+Ctrl+Alt键并拖动某一控制点可以进行透视效果的调整。 
 20. 想从中心开始画选框可按住Alt拖动。
+</div>
+
+---
+<div style="text-align:center;color: #636363;font-size:14px;letter-spacing: 10px">本文结束啦<i class="fa fa-bell"></i>感谢您的阅读</div>

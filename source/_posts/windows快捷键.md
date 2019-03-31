@@ -15,6 +15,7 @@ categories: 工具技巧
 | Ctrl + Esc              | 开始                                   |
 | Win + F2                | 逆时针切换标签                         |
 | Win + F3                | 顺时针切换标签                         |
+<!--more-->
 | Win + Q                 | 搜索                                   |
 | Win + S                 | 搜索                                   |
 | Win + E                 | 打开文件夹                             |
@@ -90,3 +91,6 @@ categories: 工具技巧
 | 快捷键         | 说明         |
 | -------------- | ------------ |
 | Ctrl + Alt + K | 打开控制面板 |
+
+---
+<div style="text-align:center;color: #636363;font-size:14px;letter-spacing: 10px">本文结束啦<i class="fa fa-bell"></i>感谢您的阅读</div>

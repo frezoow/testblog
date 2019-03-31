@@ -7,8 +7,6 @@ tags:
 categories: 工具技巧
 ---
 
-[TOC]
-
 ### 记录笔记和设置笔记格式
 
 - 键入和编辑笔记
@@ -18,6 +16,7 @@ categories: 工具技巧
 | 打开一个新的 OneNote 窗口。                                  | Ctrl+M                        |
 | 打开一个小的 OneNote 窗口以创建便笺。                        | Ctrl+Shift+M 或 Windows+Alt+N |
 | 固定 OneNote 窗口。                                          | Ctrl+Alt+D                    |
+<!-- more -->
 | 撤消最后一个操作。                                           | Ctrl+Z                        |
 | 恢复最后一个操作。                                           | Ctrl+Y                        |
 | 选择当前页上的所有项目。**注意:** 按 Ctrl+A 多次可以增加选择的范围。 | Ctrl+A                        |
@@ -280,3 +279,6 @@ categories: 工具技巧
 | **执行的操作**             | **按**     |
 | -------------------------- | ---------- |
 | 锁定所有受密码保护的分区。 | Ctrl+Alt+L |
+
+---
+<div style="text-align:center;color: #636363;font-size:14px;letter-spacing: 10px">本文结束啦<i class="fa fa-bell"></i>感谢您的阅读</div>
