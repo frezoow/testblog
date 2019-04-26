@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zwzhu.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%96%B0%E6%B5%AA%E5%9B%BE%E5%BA%8A%E5%BC%80%E5%A7%8B%E9%99%90%E5%88%B6%E5%9B%BE%E7%89%87%E5%A4%96%E9%93%BE.html</loc>
+    
+    <lastmod>2019-04-26T21:34:42.832Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zwzhu.info/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/Hexo-Markdown-%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%B9%89.html</loc>
     
     <lastmod>2019-04-26T20:00:40.395Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://zwzhu.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E4%BA%A7%E5%93%81%E7%9A%84%E9%9D%9E%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82%E5%8C%85%E6%8B%AC%E5%93%AA%E4%BA%9B%EF%BC%9F.html</loc>
     
     <lastmod>2019-04-26T20:00:12.463Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zwzhu.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%96%B0%E6%B5%AA%E5%9B%BE%E5%BA%8A%E5%BC%80%E5%A7%8B%E9%99%90%E5%88%B6%E5%9B%BE%E7%89%87%E5%A4%96%E9%93%BE.html</loc>
-    
-    <lastmod>2019-04-26T19:59:22.703Z</lastmod>
     
   </url>
   
@@ -79,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://zwzhu.info/tags/index.html</loc>
+    <loc>http://zwzhu.info/categories/index.html</loc>
     
     <lastmod>2019-04-20T19:12:59.164Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://zwzhu.info/categories/index.html</loc>
+    <loc>http://zwzhu.info/tags/index.html</loc>
     
     <lastmod>2019-04-20T19:12:59.164Z</lastmod>
     
