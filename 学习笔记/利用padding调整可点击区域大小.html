@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
-  <title>tags | Clovzzy</title>
+  <title>利用padding调整可点击区域大小 | Clovzzy</title>
   <meta name="description" content>
   <meta name="keywords" content>
   <meta name="HandheldFriendly" content="True">
@@ -12,14 +12,20 @@
   <link rel="shortcut icon" href="/images/four-leaf-clover.png">
   <link rel="alternate" href="/atom.xml" title="Clovzzy">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta property="og:type" content="website">
-<meta property="og:title" content="tags">
-<meta property="og:url" content="http://zwzhu.info/tags/index.html">
+  <meta name="description" content="如果插入一个icon，在上面加入点击事件，如果icon本身很小，用户在使用的时候会感觉很难点击，这种情况下，通过padding填充icon四周，会使点击区域扩大，需要注意的是margin不会，即使加入margin，浏览器也不会在margin的区域识别到可点击。">
+<meta name="keywords" content="CSS">
+<meta property="og:type" content="article">
+<meta property="og:title" content="利用padding调整可点击区域大小">
+<meta property="og:url" content="http://zwzhu.info/学习笔记/利用padding调整可点击区域大小.html">
 <meta property="og:site_name" content="Clovzzy">
+<meta property="og:description" content="如果插入一个icon，在上面加入点击事件，如果icon本身很小，用户在使用的时候会感觉很难点击，这种情况下，通过padding填充icon四周，会使点击区域扩大，需要注意的是margin不会，即使加入margin，浏览器也不会在margin的区域识别到可点击。">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-04-20T19:12:59.164Z">
+<meta property="og:image" content="https://i.loli.net/2019/04/28/5cc495529a898.png">
+<meta property="og:updated_time" content="2019-04-27T17:57:26.832Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="tags">
+<meta name="twitter:title" content="利用padding调整可点击区域大小">
+<meta name="twitter:description" content="如果插入一个icon，在上面加入点击事件，如果icon本身很小，用户在使用的时候会感觉很难点击，这种情况下，通过padding填充icon四周，会使点击区域扩大，需要注意的是margin不会，即使加入margin，浏览器也不会在margin的区域识别到可点击。">
+<meta name="twitter:image" content="https://i.loli.net/2019/04/28/5cc495529a898.png">
     
   <!-- <link href="https://fonts.googleapis.com/css?family=Inconsolata|Titillium+Web" rel="stylesheet"> -->
   <!-- <link href="https://fonts.googleapis.com/css?family=Inconsolata|Titillium+Web" rel="stylesheet"> -->
@@ -145,34 +151,66 @@
   <div class="l_body">
     <div class='container clearfix'>
       <div class='l_main'>
-        <article id="page-" class="post white-box article-type-page" itemscope itemprop="blogPost">
+        <article id="post-利用padding调整可点击区域大小" class="post white-box article-type-post" itemscope itemprop="blogPost">
 	<section class="meta">
 	<h2 class="title">
-  	<a href="/tags/index.html">
-    	tags
+  	<a href="/学习笔记/利用padding调整可点击区域大小.html">
+    	利用padding调整可点击区域大小
     </a>
   </h2>
 	<time>
-	  11月 25, 2017
+	  2月 23, 2017
 	</time>
 	
+    
+    <div class="cats">
+        <a href="/categories/学习笔记/">学习笔记</a>
+    </div>
+
 	</section>
 	
 		<section class="toc-wrapper"></section>
 	
 	<section class="article typo">
   	<div class="article-entry" itemprop="articleBody">
-    	
+    	<meta name="referrer" content="no-referrer">
+
+<p>如果插入一个icon，在上面加入点击事件，如果icon本身很小，用户在使用的时候会感觉很难点击，这种情况下，通过padding填充icon四周，会使点击区域扩大，需要注意的是margin不会，即使加入margin，浏览器也不会在margin的区域识别到可点击。<br><a id="more"></a><br>使用<code>padding</code>扩大点击区域，本页的返回按钮就是采用添加<code>padding</code>：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">.top-backupToHome &#123;</span><br><span class="line">  padding: 0 20px;</span><br><span class="line">  // margin: 0 20px;</span><br><span class="line">  @media(max-width: @on-phone)&#123;</span><br><span class="line">    left: -12px;</span><br><span class="line">    position: fixed;</span><br><span class="line">    padding: 0 40px 0 0;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p><code>margin</code>不会触发点击，padding会<br><img src="https://i.loli.net/2019/04/28/5cc495529a898.png" alt></p>
+
   	</div>
 	  
+	  <div class="article-tags tags">
+      
+        <a href="/tags/CSS/">CSS</a>
+      
+	  </div>
+    
 		
 	
+		<div class="art-item-footer">
+				
+					<span class="art-item-left"><i class="icon icon-chevron-thin-left"></i>prev：<a href="/设计理论/过滤真正可行的产品概念——商业模式画布.html" rel="prev" title="过滤真正可行的产品概念——商业模式画布">
+						过滤真正可行的产品概念——商业模式画布 
+					</a></span>
+				
+				
+					<span class="art-item-right">next：<a href="/学习笔记/麦肯锡市场细分八法.html" rel="next" title="麦肯锡市场细分八法">
+						麦肯锡市场细分八法
+					</a><i class="icon icon-chevron-thin-right"></i></span>
+				
+		</div>
+	
 	</section>
+	
+		<section id="comments">
+			<div id="disqus_thread"></div>
+		</section>
 	
 </article>
 <script>
 	window.subData = {
-		title: 'tags',
+		title: '利用padding调整可点击区域大小',
 		tools: true
 	}
 </script>
@@ -261,13 +299,13 @@
 <script>
   var disqus_shortname = 'zoiccco';
   
-  var disqus_url = 'http://zwzhu.info/tags/index.html';
+  var disqus_url = 'http://zwzhu.info/学习笔记/利用padding调整可点击区域大小.html';
   
   (function(){
     var dsq = document.createElement('script');
     dsq.type = 'text/javascript';
     dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
   })();
 </script>

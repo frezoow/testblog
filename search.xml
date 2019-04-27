@@ -82,6 +82,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[利用padding调整可点击区域大小]]></title>
+    <url>%2F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%88%A9%E7%94%A8padding%E8%B0%83%E6%95%B4%E5%8F%AF%E7%82%B9%E5%87%BB%E5%8C%BA%E5%9F%9F%E5%A4%A7%E5%B0%8F.html</url>
+    <content type="text"><![CDATA[如果插入一个icon，在上面加入点击事件，如果icon本身很小，用户在使用的时候会感觉很难点击，这种情况下，通过padding填充icon四周，会使点击区域扩大，需要注意的是margin不会，即使加入margin，浏览器也不会在margin的区域识别到可点击。使用padding扩大点击区域，本页的返回按钮就是采用添加padding：12345678910.top-backupToHome &#123; padding: 0 20px; // margin: 0 20px; @media(max-width: @on-phone)&#123; left: -12px; position: fixed; padding: 0 40px 0 0; &#125;&#125; margin不会触发点击，padding会]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>CSS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[麦肯锡市场细分八法]]></title>
     <url>%2F%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E9%BA%A6%E8%82%AF%E9%94%A1%E5%B8%82%E5%9C%BA%E7%BB%86%E5%88%86%E5%85%AB%E6%B3%95.html</url>
     <content type="text"><![CDATA[麦肯锡市场细分八法常用来进行对用户及市场的分析]]></content>
