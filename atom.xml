@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zwzhu.info/"/>
-  <updated>2019-04-27T02:19:58.718Z</updated>
+  <updated>2019-04-28T01:41:57.719Z</updated>
   <id>http://zwzhu.info/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zwzhu.info/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%96%B0%E6%B5%AA%E5%9B%BE%E5%BA%8A%E5%BC%80%E5%A7%8B%E9%99%90%E5%88%B6%E5%9B%BE%E7%89%87%E5%A4%96%E9%93%BE.html"/>
     <id>http://zwzhu.info/学习笔记/新浪图床开始限制图片外链.html</id>
     <published>2019-04-26T18:01:13.000Z</published>
-    <updated>2019-04-27T02:19:58.718Z</updated>
+    <updated>2019-04-28T01:41:57.719Z</updated>
     
     <content type="html"><![CDATA[<meta name="referrer" content="no-referrer"><p>今天发现直接访问blog正文的图片不能正常显示了，但是直接访问<code>src</code>图片外链是可以正常访问的<br><img src="https://i.loli.net/2019/04/27/5cc3593db78c1.png" alt><br>查了下是由于新浪开启防盗链，禁止白名单外的Referer引用，考虑再三，最后觉得我的图片又要搬家了Orz…伤心～<br><a id="more"></a></p><h2 id="临时解决方法"><a href="#临时解决方法" class="headerlink" title="临时解决方法"></a>临时解决方法</h2><p>因为浏览器直接访问外链正常，说明目前新浪的防盗链机制允许无Referer访问，所以临时方案就是在html头部中添加meta信息，指定Referer为空：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot; /&gt;</span><br></pre></td></tr></table></figure><p>为了避免每次新建md文件再次添加，可以把这段meta放到post模版下，路径在<code>scaffolds/post.md</code>下，文件默认内容：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125;</span><br><span class="line">date: &#123;&#123; date &#125;&#125;</span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></table></figure><p>改为：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125;</span><br><span class="line">date: &#123;&#123; date &#125;&#125;</span><br><span class="line">categories: [分类,A]</span><br><span class="line">tags: [标签,B]</span><br><span class="line">description: 描述</span><br><span class="line">---</span><br><span class="line"></span><br><span class="line">&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot; /&gt;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&lt;!--more--&gt;</span><br></pre></td></tr></table></figure></p><p>这样每次新建的时候都要按这个模板生成。<br>另外推荐2个国外的图床，直接上传就可以，但是国内访问会比较慢。</p><h2 id="图床推荐"><a href="#图床推荐" class="headerlink" title="图床推荐"></a>图床推荐</h2><ul><li><p><a href="https://sm.ms/" target="_blank" rel="noopener">sm.ms</a>:<br>优点：<strong>免费</strong>，支持拖拽上传，每次最大5M，最多10个图片，提供免费的API<br>缺点：没有账户的公共图片服务管理（不提供账户），无法查看历史上传<br><img src="https://i.loli.net/2019/04/27/5cc34977ab767.png" alt></p></li><li><p><a href="https://thumbsnap.com/" target="_blank" rel="noopener">thumbsnap</a>:<br>优点：<strong>免费</strong>，批量上传无限制，单张图片不超过2M，免费的API需要和管理申请，可以用推特登陆查看记录，同时也可以无需登陆上传<br>缺点：没有账户的公共图片服务管理（不提供账户），无法查看历史上传<br><img src="https://i.loli.net/2019/04/27/5cc34d6ff13cc.png" alt></p></li></ul><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>待续</p>]]></content>
     
@@ -151,7 +151,7 @@
     <link href="http://zwzhu.info/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/Hexo-Markdown-%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%B9%89.html"/>
     <id>http://zwzhu.info/工具技巧/Hexo-Markdown-特殊字符转义.html</id>
     <published>2017-05-16T09:51:55.000Z</published>
-    <updated>2019-04-26T20:00:40.395Z</updated>
+    <updated>2019-04-28T01:46:37.014Z</updated>
     
     <content type="html"><![CDATA[<meta name="referrer" content="no-referrer"><blockquote><p>来自<a href="http://zhang-jc.github.io/2017/03/30/Hexo-Markdown-%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%B9%89/" target="_blank" rel="noopener">一张假钞的真实世界</a> Hexo-Markdown-特殊字符转义</p></blockquote><p>在使用 Markdown 编写 Hexo 的 Blog 时，对于特殊字符使用“\”转义有时会不成功，最好的方式是直接使用特殊字符的编码，对应如下：<br><a id="more"></a><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">- &amp;#45; &amp;minus; — 减号</span><br><span class="line">! &amp;#33; — 惊叹号Exclamation mark </span><br><span class="line">” &amp;#34; &amp;quot; 双引号Quotation mark # &amp;#35; — 数字标志Number sign $ &amp;#36; — 美元标志Dollar sign </span><br><span class="line">% &amp;#37; — 百分号Percent sign </span><br><span class="line">&amp; &amp;#38; &amp;amp; Ampersand </span><br><span class="line">‘ &amp;#39; — 单引号Apostrophe </span><br><span class="line">( &amp;#40; — 小括号左边部分Left parenthesis </span><br><span class="line">) &amp;#41; — 小括号右边部分Right parenthesis </span><br><span class="line">* &amp;#42; — 星号Asterisk </span><br><span class="line">+ &amp;#43; — 加号Plus sign </span><br><span class="line">&lt; &amp;#60; &amp;lt; 小于号Less than </span><br><span class="line">= &amp;#61; — 等于符号Equals sign </span><br><span class="line">&gt; &amp;#62; &amp;gt; 大于号Greater than </span><br><span class="line">? &amp;#63; — 问号Question mark </span><br><span class="line">@ &amp;#64; — Commercial at </span><br><span class="line">[ &amp;#91; --- 中括号左边部分Left square bracket </span><br><span class="line">\ &amp;#92; --- 反斜杠Reverse solidus (backslash) </span><br><span class="line">] &amp;#93; — 中括号右边部分Right square bracket </span><br><span class="line">&#123; &amp;#123; — 大括号左边部分Left curly brace </span><br><span class="line">| &amp;#124; — 竖线Vertical bar </span><br><span class="line">&#125; &amp;#125; — 大括号右边部分Right curly brace</span><br></pre></td></tr></table></figure></p><!-- 方法来自博客： [一张假钞的真实世界](http://zhang-jc.github.io/2017/03/30/Hexo-Markdown-%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6%E8%BD%AC%E4%B9%89/) -->]]></content>
     
@@ -323,7 +323,7 @@
     <published>2016-01-04T02:39:46.000Z</published>
     <updated>2016-01-04T02:39:46.000Z</updated>
     
-    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer"><blockquote><p>这是自己以前学photoshop做的一些总结，拿出来和大家分享一下吧！</p></blockquote><ol><li>使用快捷键快速操作.<br>F1 -帮助<br>F2 -剪切<br>F3 -拷贝<br>F4-粘贴<br>Shift+f5-填充<br>Shift+f6-羽化 <a id="more"></a>Shift+f7-选择→反选<br>Ctrl+h-隐藏选定区域<br>Ctrl+d-取消选定区域<br>Ctrl+w-关闭文件<br>Ctrl+Q-退出Photoshop<br>Esc-取消操作 </li><li>按Tab键可以显示或隐藏工具箱和调色板，按”Shift+Tab”键可以显示或隐藏除工具以外的其他面板。 </li><li>按住Shift用绘画工具在画面点击就可以在每两点间画出直线，按住鼠标拖动便可画出水平或垂直线。 </li><li>使用其他工具时，按住Ctrl键可切换到移动工具的功能（除了选择抓手工具时）按住空格键可切换到抓手工具的功能。 </li><li>同时按住Alt和Ctrl-或+可让画框与画面同时缩放。 </li><li>按住Ctrl双击Photoshop底板相当于新建。 </li><li>在所有设置对话框内，只要按住Alt键，取消键会变成键重设键，按重设键变可恢复默认设置。 </li><li>按Alt+Backspace(Delete)键可将前景色填入选取框按Ctrl+Backspace(Delete)键可将背景色填入选取框。 </li><li>同时按住Ctrl和Alt移动可马上复制到新的图层并可同时移动物体。 </li><li>在图层，通道和路径面板上,按Alt单击,按单击这些面板底部的工具图标时,对于有参数设置的工具可调出相应的对话框来更改设置。 </li><li>若要在两上窗口间拖放拷贝,拖动过程中按住Shift键,图像拖动到目的窗口后会自动居中。 </li><li>按住Shift选择区域时可在原区域上增加新的区域;按住Alt选择区域时,可在原区域上减去新选区域,同时按住Shift和Alt选择区域时,可取得与原选择区域相交的部分 </li><li>移动图层和选取框时,按住Shift键可做水平,垂直或45度角的移动,按键盘上的方向键,可做每次1像素的移动,按住Shift键再键盘上的方向键可做每次10像素的移动。 </li><li>使用笔形工具制作路径是按住Shift键可以强制路径或方向线成水平或垂直或45度角按住Ctrl键可暂时切换到路径选取工具按住Alt键将笔形光标在黑色的接点上单击可以改变方向线的方向，使曲线可以转折；按Alt键用路径选取工具单击路径会选取整个路径,要同时选取多个路径可按住Shift后逐个单击，用路径选取工具是按住Ctrl+Alt键移近路径会切换到加节点与件节点的笔行工具。 </li><li>在使用选取工具时,按Shift键拖动鼠标可以在原选取框外增加选取范围;同时按Shift与Alt键拖动鼠标可以选取与原选取框重叠的范围(交集)。 </li><li>alt+Delete加填前景颜色,Ctrl或Shift加Delete填背景颜色。 </li><li>使用滤镜/渲染/云彩时,先按住Alt可加云彩的反差,先按住Shift键则降低反差 。 </li><li>在使用自由变形功能时,按Ctrl键并拖动某一控制点可以进行随意变形的调整,”Shift+Ctrl”键并拖动某一控制点可以时行倾斜调整;按Alt键并拖动某一控制点可以进行对称调整;按Shift+Ctrl+Alt键并拖动某一控制点可以进行透视效果的调整。 </li><li>想从中心开始画选框可按住Alt拖动。</li></ol>]]></content>
+    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer"><blockquote><p>这是自己以前学photoshop做的一些总结，拿出来和大家分享一下吧！</p></blockquote><h2 id="常用"><a href="#常用" class="headerlink" title="常用"></a>常用</h2><ol><li>使用快捷键快速操作.<br>F1 -帮助<br>F2 -剪切<br>F3 -拷贝<br>F4-粘贴<br>Shift+f5-填充<br>Shift+f6-羽化 <a id="more"></a>Shift+f7-选择→反选<br>Ctrl+h-隐藏选定区域<br>Ctrl+d-取消选定区域<br>Ctrl+w-关闭文件<br>Ctrl+Q-退出Photoshop<br>Esc-取消操作 </li><li>按Tab键可以显示或隐藏工具箱和调色板，按”Shift+Tab”键可以显示或隐藏除工具以外的其他面板。 </li><li>按住Shift用绘画工具在画面点击就可以在每两点间画出直线，按住鼠标拖动便可画出水平或垂直线。 </li><li>使用其他工具时，按住Ctrl键可切换到移动工具的功能（除了选择抓手工具时）按住空格键可切换到抓手工具的功能。 </li><li>同时按住Alt和Ctrl-或+可让画框与画面同时缩放。 </li><li>按住Ctrl双击Photoshop底板相当于新建。 </li><li>在所有设置对话框内，只要按住Alt键，取消键会变成键重设键，按重设键变可恢复默认设置。 </li><li>按Alt+Backspace(Delete)键可将前景色填入选取框按Ctrl+Backspace(Delete)键可将背景色填入选取框。 </li><li>同时按住Ctrl和Alt移动可马上复制到新的图层并可同时移动物体。 </li><li>在图层，通道和路径面板上,按Alt单击,按单击这些面板底部的工具图标时,对于有参数设置的工具可调出相应的对话框来更改设置。 </li><li>若要在两上窗口间拖放拷贝,拖动过程中按住Shift键,图像拖动到目的窗口后会自动居中。 </li><li>按住Shift选择区域时可在原区域上增加新的区域;按住Alt选择区域时,可在原区域上减去新选区域,同时按住Shift和Alt选择区域时,可取得与原选择区域相交的部分 </li><li>移动图层和选取框时,按住Shift键可做水平,垂直或45度角的移动,按键盘上的方向键,可做每次1像素的移动,按住Shift键再键盘上的方向键可做每次10像素的移动。 </li><li>使用笔形工具制作路径是按住Shift键可以强制路径或方向线成水平或垂直或45度角按住Ctrl键可暂时切换到路径选取工具按住Alt键将笔形光标在黑色的接点上单击可以改变方向线的方向，使曲线可以转折；按Alt键用路径选取工具单击路径会选取整个路径,要同时选取多个路径可按住Shift后逐个单击，用路径选取工具是按住Ctrl+Alt键移近路径会切换到加节点与件节点的笔行工具。 </li><li>在使用选取工具时,按Shift键拖动鼠标可以在原选取框外增加选取范围;同时按Shift与Alt键拖动鼠标可以选取与原选取框重叠的范围(交集)。 </li><li>alt+Delete加填前景颜色,Ctrl或Shift加Delete填背景颜色。 </li><li>使用滤镜/渲染/云彩时,先按住Alt可加云彩的反差,先按住Shift键则降低反差 。 </li><li>在使用自由变形功能时,按Ctrl键并拖动某一控制点可以进行随意变形的调整,”Shift+Ctrl”键并拖动某一控制点可以时行倾斜调整;按Alt键并拖动某一控制点可以进行对称调整;按Shift+Ctrl+Alt键并拖动某一控制点可以进行透视效果的调整。 </li><li>想从中心开始画选框可按住Alt拖动。</li></ol><h2 id="19ps-cc-for-Mac默认快捷键"><a href="#19ps-cc-for-Mac默认快捷键" class="headerlink" title="19ps cc for Mac默认快捷键"></a>19ps cc for Mac默认快捷键</h2><p>对应cc版本信息：</p><p><img src="https://i.loli.net/2019/04/29/5cc5e7280494e.png" alt="cc mac版本"></p><p>pdf完整快捷键：</p><div class="row">    <embed src="/file/Adobe®Photoshop®CC键盘快捷键.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     <summary type="html">
     
@@ -332,7 +332,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;这是自己以前学photoshop做的一些总结，拿出来和大家分享一下吧！&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;ol&gt;
+&lt;h2 id=&quot;常用&quot;&gt;&lt;a href=&quot;#常用&quot; class=&quot;headerlink&quot; title=&quot;常用&quot;&gt;&lt;/a&gt;常用&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;使用快捷键快速操作.&lt;br&gt;F1 -帮助&lt;br&gt;F2 -剪切&lt;br&gt;F3 -拷贝&lt;br&gt;F4-粘贴&lt;br&gt;Shift+f5-填充&lt;br&gt;Shift+f6-羽化&lt;/li&gt;&lt;/ol&gt;
     
     </summary>
@@ -458,6 +458,33 @@
     
     
       <category term="正则" scheme="http://zwzhu.info/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to google</title>
+    <link href="http://zwzhu.info/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/howtogoogle.html"/>
+    <id>http://zwzhu.info/工具技巧/howtogoogle.html</id>
+    <published>2015-06-22T01:38:00.000Z</published>
+    <updated>2019-04-28T04:10:51.452Z</updated>
+    
+    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer"><h2 id="Google进阶搜索"><a href="#Google进阶搜索" class="headerlink" title="Google进阶搜索"></a>Google进阶搜索</h2><div class="row">    <embed src="http://read.pudn.com/downloads161/ebook/726699/howtogoogle.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+
+&lt;h2 id=&quot;Google进阶搜索&quot;&gt;&lt;a href=&quot;#Google进阶搜索&quot; class=&quot;headerlink&quot; title=&quot;Google进阶搜索&quot;&gt;&lt;/a&gt;Google进阶搜索
+      
+    
+    </summary>
+    
+      <category term="工具技巧" scheme="http://zwzhu.info/categories/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="Google搜索" scheme="http://zwzhu.info/tags/Google%E6%90%9C%E7%B4%A2/"/>
     
   </entry>
   
