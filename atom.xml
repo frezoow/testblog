@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zwzhu.info/"/>
-  <updated>2019-04-28T01:41:57.719Z</updated>
+  <updated>2019-09-10T19:36:59.698Z</updated>
   <id>http://zwzhu.info/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人作品展示</title>
+    <link href="http://zwzhu.info/%E9%9A%8F%E7%AC%94/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA.html"/>
+    <id>http://zwzhu.info/随笔/个人作品展示.html</id>
+    <published>2019-09-10T18:01:20.000Z</published>
+    <updated>2019-09-10T19:36:59.698Z</updated>
+    
+    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer"><blockquote><p>以下为应聘产品经理展示部分过往项目信息<br><a id="more"></a></p></blockquote><h2 id="经销商车源信息录入后台"><a href="#经销商车源信息录入后台" class="headerlink" title="经销商车源信息录入后台"></a>经销商车源信息录入后台</h2><p>项目介绍：为经销商提供PC端在线车源信息录入，提高车源信息更新效率<br>项目持续时间：1个月<br>目标：提高车源更新效率，支持商家操作员excel批量录入车源信息<br>挑战：预计要在一个月以内上线<br>结果：顺利对接，按时高质量上线<br>目前状态：未知<br>原型地址：<a href="https://iurbak.axshare.com" target="_blank" rel="noopener">https://iurbak.axshare.com</a> 密码: 111111</p><h2 id="有偿问答悬赏红包-微信小程序"><a href="#有偿问答悬赏红包-微信小程序" class="headerlink" title="有偿问答悬赏红包-微信小程序"></a>有偿问答悬赏红包-微信小程序</h2><p>项目时间：3个月<br>目标：通过微信平台熟人社交的性质分享和扩散完成前期1000个种子用户获取<br>挑战：重运营偏互动类产品，制定合适的运营策略推广小程序<br>结果：通过红包式问答发布悬赏增加问答趣味性<br>项目状态：已下线<br>原型地址：<a href="https://gmm0xu.axshare.com" target="_blank" rel="noopener">https://gmm0xu.axshare.com</a> 密码: 111111</p><h2 id="大、小方智能摄像机云端存储功能产品设计方案"><a href="#大、小方智能摄像机云端存储功能产品设计方案" class="headerlink" title="大、小方智能摄像机云端存储功能产品设计方案"></a>大、小方智能摄像机云端存储功能产品设计方案</h2><p>项目时间：3个月<br>目标：<br>挑战：<br>结果：<br>项目状态：未知<br>原型地址：<a href="https://o1u2sr.axshare.com/" target="_blank" rel="noopener">https://o1u2sr.axshare.com/</a></p><h2 id="多酷汽车wap端"><a href="#多酷汽车wap端" class="headerlink" title="多酷汽车wap端"></a>多酷汽车wap端</h2><p>项目介绍：汽车导购媒体平台，为关注进口车的用户提供汽车新闻资讯，<br>项目时间：3个月<br>目标：<br>挑战：<br>结果：<br>网址：m.doqo.com<br>项目状态：已下线<br>原型地址：<a href="https://pb16s3.axshare.com" target="_blank" rel="noopener">https://pb16s3.axshare.com</a> 密码: 111111</p><h2 id="购车服务顾问app"><a href="#购车服务顾问app" class="headerlink" title="购车服务顾问app"></a>购车服务顾问app</h2><p>项目介绍：顾问服务客户的订单管理工具<br>项目时间：3个月<br>目标：<br>挑战：<br>结果：<br>项目状态：已下线<br>原型地址：<a href="https://pwcbgl.axshare.com" target="_blank" rel="noopener">https://pwcbgl.axshare.com</a> 密码: 123123</p><h2 id="wyze设备组管理功能"><a href="#wyze设备组管理功能" class="headerlink" title="wyze设备组管理功能"></a>wyze设备组管理功能</h2><p>项目介绍：智能家具管理app新功能，提高产品内部对多个智能设备的管理效率<br>项目时间：3个月<br>目标：<br>挑战：<br>结果：<br>项目状态：未知<br>产品原型：<img src="https://i.loli.net/2019/09/11/r7wvqSnfDscy2GE.png" alt="wyze设备组概览.png"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;以下为应聘产品经理展示部分过往项目信息&lt;br&gt;&lt;/p&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://zwzhu.info/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="作品展示" scheme="http://zwzhu.info/tags/%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>新浪图床限制图片外链的解决方法</title>
