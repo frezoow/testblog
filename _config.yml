@@ -5,7 +5,7 @@
 # Site
 title: PMDog'sBlog
 subtitle:  心有饕餮，细嗅蔷薇
-description: 我要是能在积极一点就好了📌📌📌
+description: test
 # 我妈说一口不能吃成个胖子，于是我放弃了
 author: Zhuzw
 language: zh-CN #zh-Hans
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.zhuzw.xyz
+url: https://frezoow.github.io
 # permalink: :year/:month/:day/:title/
 permalink: :category/:title.html
 permalink_defaults: lang:en
@@ -79,7 +79,7 @@ theme: next-reloaded
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:bgdizzy/bgdizzy.github.io.git
+  repo: git@github.com:frezoow/frezoow.github.io.git
   branch: master
   
 
